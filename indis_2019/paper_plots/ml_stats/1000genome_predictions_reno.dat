@@ -1,0 +1,5 @@
+#test_data    pre_normal    pred_loss    pred_dup    pred_reorder
+normal        98            0            2           0
+loss          47            51           0           2
+duplicate     99            0            1           0
+reorder       0.5           0            0           99.5

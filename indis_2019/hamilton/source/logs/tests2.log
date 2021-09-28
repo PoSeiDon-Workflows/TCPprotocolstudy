@@ -1,0 +1,5204 @@
+1565900743: START htcp
+1565900743: START reorder 50
+1565900746: Mice transfer 1
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.622711 s, 189 MB/s
+1565900751: Mice transfer 2
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.646412 s, 156 MB/s
+1565900756: Mice transfer 3
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.851884 s, 128 MB/s
+1565900761: Mice transfer 4
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.797708 s, 116 MB/s
+1565900765: Mice transfer 5
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.50129 s, 83.8 MB/s
+1565900771: Mice transfer 6
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 1.32977 s, 75.7 MB/s
+1565900777: Mice transfer 7
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.50658 s, 75.2 MB/s
+1565900782: Mice transfer 8
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.01156 s, 108 MB/s
+1565900787: Mice transfer 9
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 1.23496 s, 74.7 MB/s
+1565900792: Mice transfer 10
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.07133 s, 117 MB/s
+1565900798: Mice transfer 11
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.811122 s, 134 MB/s
+1565900803: Mice transfer 12
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.748876 s, 129 MB/s
+1565900808: Mice transfer 13
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.877426 s, 120 MB/s
+1565900813: Mice transfer 14
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.702394 s, 119 MB/s
+1565900817: Mice transfer 15
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.57417 s, 79.9 MB/s
+1565900823: Mice transfer 16
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.902453 s, 116 MB/s
+1565900828: Mice transfer 17
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.09724 s, 111 MB/s
+1565900834: Mice transfer 18
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.20718 s, 97.3 MB/s
+1565900839: Mice transfer 19
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.24607 s, 94.2 MB/s
+1565900845: Mice transfer 20
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.43709 s, 84.6 MB/s
+1565900851: Mice transfer 21
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 1.22589 s, 75.3 MB/s
+1565900856: Mice transfer 22
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.55033 s, 73.0 MB/s
+1565900862: Mice transfer 23
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.5215 s, 74.4 MB/s
+1565900867: Mice transfer 24
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.78586 s, 112 MB/s
+1565900872: Mice transfer 25
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.874195 s, 120 MB/s
+1565900877: Mice transfer 26
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.01532 s, 120 MB/s
+1565900882: Mice transfer 27
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.692227 s, 121 MB/s
+1565900886: Mice transfer 28
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 1.37267 s, 73.3 MB/s
+1565900892: Mice transfer 29
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.60238 s, 70.7 MB/s
+1565900897: Mice transfer 30
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.63796 s, 71.7 MB/s
+1565900903: Mice transfer 31
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.63871 s, 74.2 MB/s
+1565900909: Mice transfer 32
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.00001 s, 109 MB/s
+1565900915: Mice transfer 33
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.04131 s, 105 MB/s
+1565900920: Mice transfer 34
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 1.15417 s, 76.3 MB/s
+1565900924: Mice transfer 35
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.746643 s, 129 MB/s
+1565900929: Mice transfer 36
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.23854 s, 91.4 MB/s
+1565900934: Mice transfer 37
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.729428 s, 155 MB/s
+1565900939: Mice transfer 38
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.700457 s, 120 MB/s
+1565900944: Mice transfer 39
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 1.37978 s, 73.0 MB/s
+1565900949: Mice transfer 40
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.66986 s, 70.3 MB/s
+1565900955: Mice transfer 41
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.834911 s, 121 MB/s
+1565900960: Mice transfer 42
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.743512 s, 118 MB/s
+1565900964: Mice transfer 43
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.41593 s, 82.9 MB/s
+1565900970: Mice transfer 44
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.916614 s, 119 MB/s
+1565900975: Mice transfer 45
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.01565 s, 124 MB/s
+1565900980: Mice transfer 46
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.09688 s, 115 MB/s
+1565900986: Mice transfer 47
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.823422 s, 117 MB/s
+1565900991: Mice transfer 48
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.77335 s, 125 MB/s
+1565900995: Mice transfer 49
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.05937 s, 119 MB/s
+1565901001: Mice transfer 50
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.900964 s, 130 MB/s
+1565901006: Mice transfer 51
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.40114 s, 89.8 MB/s
+1565901012: Mice transfer 52
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.93555 s, 103 MB/s
+1565901017: Mice transfer 53
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.870521 s, 125 MB/s
+1565901022: Mice transfer 54
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.73468 s, 114 MB/s
+1565901026: Mice transfer 55
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 1.16965 s, 71.7 MB/s
+1565901031: Mice transfer 56
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.47215 s, 71.2 MB/s
+1565901036: Mice transfer 57
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.965298 s, 109 MB/s
+1565901041: Mice transfer 58
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.26692 s, 86.1 MB/s
+1565901047: Mice transfer 59
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.58657 s, 76.7 MB/s
+1565901053: Mice transfer 60
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 1.3268 s, 75.9 MB/s
+1565901058: Mice transfer 61
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.67228 s, 72.7 MB/s
+1565901065: Mice transfer 62
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.50385 s, 72.5 MB/s
+1565901070: Mice transfer 63
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.775705 s, 114 MB/s
+1565901074: Mice transfer 64
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.39653 s, 81.1 MB/s
+1565901080: Mice transfer 65
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.80799 s, 130 MB/s
+1565901085: Mice transfer 66
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.803788 s, 110 MB/s
+1565901089: Mice transfer 67
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.43979 s, 84.5 MB/s
+1565901095: Mice transfer 68
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.61821 s, 136 MB/s
+1565901099: Mice transfer 69
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.3087 s, 73.7 MB/s
+1565901104: Mice transfer 70
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.68769 s, 62.1 MB/s
+1565901110: Mice transfer 71
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.75092 s, 69.5 MB/s
+1565901116: Mice transfer 72
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.819665 s, 138 MB/s
+1565901121: Mice transfer 73
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.01975 s, 94.6 MB/s
+1565901126: Mice transfer 74
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.32151 s, 73.0 MB/s
+1565901131: Mice transfer 75
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.62281 s, 75.0 MB/s
+1565901138: Mice transfer 76
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.938551 s, 125 MB/s
+1565901143: Mice transfer 77
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.0093 s, 108 MB/s
+1565901148: Mice transfer 78
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 1.18503 s, 77.9 MB/s
+1565901153: Mice transfer 79
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.59675 s, 76.2 MB/s
+1565901159: Mice transfer 80
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.58066 s, 69.0 MB/s
+1565901165: Mice transfer 81
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.62681 s, 72.2 MB/s
+1565901171: Mice transfer 82
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.9506 s, 106 MB/s
+1565901176: Mice transfer 83
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.752136 s, 123 MB/s
+1565901180: Mice transfer 84
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 1.13554 s, 73.9 MB/s
+1565901185: Mice transfer 85
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.778167 s, 113 MB/s
+1565901189: Mice transfer 86
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.36437 s, 76.9 MB/s
+1565901195: Mice transfer 87
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 1.34197 s, 75.0 MB/s
+1565901200: Mice transfer 88
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.47313 s, 71.2 MB/s
+1565901205: Mice transfer 89
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.502606 s, 175 MB/s
+1565901210: Mice transfer 90
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.13964 s, 84.6 MB/s
+1565901214: Mice transfer 91
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.622717 s, 148 MB/s
+1565901219: Mice transfer 92
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.677978 s, 130 MB/s
+1565901223: Mice transfer 93
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.16876 s, 89.7 MB/s
+1565901228: Mice transfer 94
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 1.13712 s, 77.5 MB/s
+1565901233: Mice transfer 95
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.879978 s, 133 MB/s
+1565901238: Mice transfer 96
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.02289 s, 123 MB/s
+1565901244: Mice transfer 97
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.916669 s, 96.1 MB/s
+1565901248: Mice transfer 98
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 1.3111 s, 70.4 MB/s
+1565901253: Mice transfer 99
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.723503 s, 116 MB/s
+1565901258: Mice transfer 100
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 1.25151 s, 73.7 MB/s
+1565901263: Mice transfer 101
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.7648 s, 71.3 MB/s
+1565901269: Mice transfer 102
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.70741 s, 125 MB/s
+1565901273: Mice transfer 103
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 1.22576 s, 82.1 MB/s
+1565901278: Mice transfer 104
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.62591 s, 72.2 MB/s
+1565901284: Mice transfer 105
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.748985 s, 118 MB/s
+1565901289: Mice transfer 106
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.03617 s, 121 MB/s
+1565901294: Mice transfer 107
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.857122 s, 137 MB/s
+1565901300: Mice transfer 108
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 1.01478 s, 99.2 MB/s
+1565901305: Mice transfer 109
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.7069 s, 71.3 MB/s
+1565901311: Mice transfer 110
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 1.34473 s, 74.9 MB/s
+1565901316: Mice transfer 111
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.46661 s, 71.5 MB/s
+1565901321: Mice transfer 112
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.69311 s, 69.4 MB/s
+1565901327: Mice transfer 113
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.08459 s, 112 MB/s
+1565901333: Mice transfer 114
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.03829 s, 113 MB/s
+1565901338: Mice transfer 115
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.10454 s, 87.3 MB/s
+1565901343: Mice transfer 116
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.41006 s, 89.2 MB/s
+1565901349: Mice transfer 117
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.31062 s, 73.6 MB/s
+1565901354: Mice transfer 118
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.708739 s, 130 MB/s
+1565901359: Mice transfer 119
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.996391 s, 109 MB/s
+1565901364: Mice transfer 120
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.937193 s, 134 MB/s
+1565901369: Mice transfer 121
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.849616 s, 138 MB/s
+1565901375: Mice transfer 122
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 1.09041 s, 84.6 MB/s
+1565901380: Mice transfer 123
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.926117 s, 131 MB/s
+1565901385: Mice transfer 124
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 1.11354 s, 82.9 MB/s
+1565901390: Mice transfer 125
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.922504 s, 127 MB/s
+1565901395: Mice transfer 126
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.12762 s, 112 MB/s
+1565901401: Mice transfer 127
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.807397 s, 119 MB/s
+1565901405: Mice transfer 128
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.848726 s, 119 MB/s
+1565901410: Mice transfer 129
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.10188 s, 114 MB/s
+1565901416: Mice transfer 130
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.690389 s, 122 MB/s
+1565901420: Mice transfer 131
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 1.20601 s, 76.5 MB/s
+1565901425: Mice transfer 132
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.705434 s, 125 MB/s
+1565901429: Mice transfer 133
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.696383 s, 120 MB/s
+1565901434: Mice transfer 134
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.58209 s, 79.5 MB/s
+1565901440: Mice transfer 135
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 1.2083 s, 69.4 MB/s
+1565901445: Mice transfer 136
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.03276 s, 114 MB/s
+1565901450: Mice transfer 137
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.875891 s, 144 MB/s
+1565901455: Mice transfer 138
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.989743 s, 84.8 MB/s
+1565901460: Mice transfer 139
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.974952 s, 116 MB/s
+1565901465: Mice transfer 140
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.761614 s, 121 MB/s
+1565901470: Mice transfer 141
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.37119 s, 79.5 MB/s
+1565901475: Mice transfer 142
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.775474 s, 119 MB/s
+1565901480: Mice transfer 143
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 1.1593 s, 86.8 MB/s
+1565901485: Mice transfer 144
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.47673 s, 71.0 MB/s
+1565901490: Mice transfer 145
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.924555 s, 109 MB/s
+1565901495: Mice transfer 146
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.17727 s, 89.1 MB/s
+1565901501: Mice transfer 147
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.4516 s, 78.0 MB/s
+1565901506: Mice transfer 148
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.33412 s, 72.3 MB/s
+1565901512: Mice transfer 149
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.642765 s, 131 MB/s
+1565901516: Mice transfer 150
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.951729 s, 106 MB/s
+1565901521: Mice transfer 151
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.35946 s, 77.1 MB/s
+1565901526: Mice transfer 152
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.52484 s, 63.3 MB/s
+1565901531: Mice transfer 153
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.850019 s, 109 MB/s
+1565901536: Mice transfer 154
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 1.11916 s, 75.0 MB/s
+1565901540: Mice transfer 155
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.41286 s, 68.3 MB/s
+1565901546: Mice transfer 156
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.84671 s, 68.1 MB/s
+1565901552: Mice transfer 157
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.01033 s, 112 MB/s
+1565901557: Mice transfer 158
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.98527 s, 89.4 MB/s
+1565901562: Mice transfer 159
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.90809 s, 125 MB/s
+1565901567: Mice transfer 160
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.832917 s, 141 MB/s
+1565901572: Mice transfer 161
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.815594 s, 129 MB/s
+1565901577: Mice transfer 162
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.857207 s, 117 MB/s
+1565901582: Mice transfer 163
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.11191 s, 86.8 MB/s
+1565901587: Mice transfer 164
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.39355 s, 75.2 MB/s
+1565901592: Mice transfer 165
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.887233 s, 123 MB/s
+1565901597: Mice transfer 166
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.946421 s, 133 MB/s
+1565901603: Mice transfer 167
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.09037 s, 88.5 MB/s
+1565901608: Mice transfer 168
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.09045 s, 115 MB/s
+1565901613: Mice transfer 169
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.754827 s, 111 MB/s
+1565901618: Mice transfer 170
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.35264 s, 77.5 MB/s
+1565901623: Mice transfer 171
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.835979 s, 105 MB/s
+1565901627: Mice transfer 172
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.47913 s, 85.1 MB/s
+1565901633: Mice transfer 173
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.691503 s, 121 MB/s
+1565901638: Mice transfer 174
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.46311 s, 80.3 MB/s
+1565901643: Mice transfer 175
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.714044 s, 123 MB/s
+1565901648: Mice transfer 176
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 1.20171 s, 69.8 MB/s
+1565901652: Mice transfer 177
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.81567 s, 69.3 MB/s
+1565901659: Mice transfer 178
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.828152 s, 132 MB/s
+1565901664: Mice transfer 179
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.968718 s, 130 MB/s
+1565901669: Mice transfer 180
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.999559 s, 96.5 MB/s
+1565901674: Mice transfer 181
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.25767 s, 93.4 MB/s
+1565901680: Mice transfer 182
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.32882 s, 72.6 MB/s
+1565901685: Mice transfer 183
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.3891 s, 75.5 MB/s
+1565901690: Mice transfer 184
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.708516 s, 130 MB/s
+1565901695: Mice transfer 185
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.956949 s, 110 MB/s
+1565901700: Mice transfer 186
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.988245 s, 110 MB/s
+1565901705: Mice transfer 187
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 1.75871 s, 57.2 MB/s
+1565901711: Mice transfer 188
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.803345 s, 125 MB/s
+1565901715: Mice transfer 189
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.699512 s, 120 MB/s
+1565901719: Mice transfer 190
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.4296 s, 76.3 MB/s
+1565901725: Mice transfer 191
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.64717 s, 73.8 MB/s
+1565901731: Mice transfer 192
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.5319 s, 71.2 MB/s
+1565901737: Mice transfer 193
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.810499 s, 135 MB/s
+1565901742: Mice transfer 194
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.708394 s, 118 MB/s
+1565901746: Mice transfer 195
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.708156 s, 118 MB/s
+1565901750: Mice transfer 196
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.47497 s, 76.8 MB/s
+1565901756: Mice transfer 197
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.59239 s, 76.4 MB/s
+1565901762: Mice transfer 198
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.63377 s, 66.7 MB/s
+1565901768: Mice transfer 199
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.43679 s, 73.0 MB/s
+1565901773: Mice transfer 200
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.73539 s, 72.5 MB/s
+1565901780: Mice transfer 201
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.980336 s, 111 MB/s
+1565901785: Mice transfer 202
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.28753 s, 91.2 MB/s
+1565901790: Mice transfer 203
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.07161 s, 117 MB/s
+1565901796: Mice transfer 204
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.785707 s, 123 MB/s
+1565901800: Mice transfer 205
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.725014 s, 116 MB/s
+1565901805: Mice transfer 206
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.00155 s, 109 MB/s
+1565901810: Mice transfer 207
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.957166 s, 105 MB/s
+1565901815: Mice transfer 208
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.863912 s, 126 MB/s
+1565901820: Mice transfer 209
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.755934 s, 117 MB/s
+1565901824: Mice transfer 210
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 1.00802 s, 87.4 MB/s
+1565901829: Mice transfer 211
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.951308 s, 101 MB/s
+1565901834: Mice transfer 212
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.96175 s, 109 MB/s
+1565901839: Mice transfer 213
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.729075 s, 121 MB/s
+1565901843: Mice transfer 214
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.982541 s, 111 MB/s
+1565901848: Mice transfer 215
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.843543 s, 109 MB/s
+1565901853: Mice transfer 216
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.753284 s, 111 MB/s
+1565901857: Mice transfer 217
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 1.09155 s, 80.7 MB/s
+1565901862: Mice transfer 218
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 1.31697 s, 70.1 MB/s
+1565901867: Mice transfer 219
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.68617 s, 72.1 MB/s
+1565901873: Mice transfer 220
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.731902 s, 126 MB/s
+1565901877: Mice transfer 221
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.45021 s, 81.0 MB/s
+1565901883: Mice transfer 222
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 1.25412 s, 70.2 MB/s
+1565901888: Mice transfer 223
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.732465 s, 126 MB/s
+1565901892: Mice transfer 224
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.37974 s, 76.0 MB/s
+1565901898: Mice transfer 225
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.814252 s, 113 MB/s
+1565901902: Mice transfer 226
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.1079 s, 110 MB/s
+1565901908: Mice transfer 227
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.734497 s, 126 MB/s
+1565901912: Mice transfer 228
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.688245 s, 122 MB/s
+1565901916: Mice transfer 229
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.05106 s, 116 MB/s
+1565901922: Mice transfer 230
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.792628 s, 116 MB/s
+1565901926: Mice transfer 231
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.91928 s, 114 MB/s
+1565901931: Mice transfer 232
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.03757 s, 121 MB/s
+1565901937: Mice transfer 233
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.04528 s, 116 MB/s
+1565901942: Mice transfer 234
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.80944 s, 119 MB/s
+1565901947: Mice transfer 235
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.818983 s, 128 MB/s
+1565901952: Mice transfer 236
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.746001 s, 118 MB/s
+1565901956: Mice transfer 237
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.04928 s, 116 MB/s
+1565901962: Mice transfer 238
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.988594 s, 110 MB/s
+1565901967: Mice transfer 239
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.78603 s, 112 MB/s
+1565901971: Mice transfer 240
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.75705 s, 111 MB/s
+1565901976: Mice transfer 241
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.26279 s, 96.3 MB/s
+1565901981: Mice transfer 242
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.900497 s, 135 MB/s
+1565901987: Mice transfer 243
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.707707 s, 130 MB/s
+1565901991: Mice transfer 244
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.974537 s, 103 MB/s
+1565901996: Mice transfer 245
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.863548 s, 107 MB/s
+1565902001: Mice transfer 246
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.00012 s, 105 MB/s
+1565902006: Mice transfer 247
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.831814 s, 111 MB/s
+1565902010: Mice transfer 248
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.742391 s, 147 MB/s
+1565902015: Mice transfer 249
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.02413 s, 115 MB/s
+1565902021: Mice transfer 250
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.809927 s, 135 MB/s
+1565902025: Mice transfer 251
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.749483 s, 129 MB/s
+1565902030: Mice transfer 252
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.819982 s, 138 MB/s
+1565902035: Mice transfer 253
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.878964 s, 138 MB/s
+1565902041: Mice transfer 254
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.677546 s, 136 MB/s
+1565902045: Mice transfer 255
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.811312 s, 134 MB/s
+1565902050: Mice transfer 256
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.81369 s, 103 MB/s
+1565902054: Mice transfer 257
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.07382 s, 113 MB/s
+1565902060: Mice transfer 258
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.982768 s, 107 MB/s
+1565902065: Mice transfer 259
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.04497 s, 112 MB/s
+1565902070: Mice transfer 260
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.945445 s, 106 MB/s
+1565902075: Mice transfer 261
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.927884 s, 104 MB/s
+1565902080: Mice transfer 262
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.682933 s, 129 MB/s
+1565902084: Mice transfer 263
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.48091 s, 73.6 MB/s
+1565902090: Mice transfer 264
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.876088 s, 124 MB/s
+1565902095: Mice transfer 265
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.935772 s, 134 MB/s
+1565902100: Mice transfer 266
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.805944 s, 130 MB/s
+1565902105: Mice transfer 267
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.739799 s, 130 MB/s
+1565902110: Mice transfer 268
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.05747 s, 115 MB/s
+1565902115: Mice transfer 269
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.804884 s, 120 MB/s
+1565902120: Mice transfer 270
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.813092 s, 113 MB/s
+1565902124: Mice transfer 271
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.759586 s, 110 MB/s
+1565902129: Mice transfer 272
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.797668 s, 116 MB/s
+1565902133: Mice transfer 273
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.761292 s, 110 MB/s
+1565902137: Mice transfer 274
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.01104 s, 124 MB/s
+1565902143: Mice transfer 275
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.813704 s, 113 MB/s
+1565902147: Mice transfer 276
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.838453 s, 110 MB/s
+1565902152: Mice transfer 277
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.35829 s, 77.2 MB/s
+1565902157: Mice transfer 278
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.09746 s, 115 MB/s
+1565902163: Mice transfer 279
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.707104 s, 130 MB/s
+1565902168: Mice transfer 280
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.975881 s, 129 MB/s
+1565902173: Mice transfer 281
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.04232 s, 109 MB/s
+1565902178: Mice transfer 282
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.04167 s, 109 MB/s
+1565902184: Mice transfer 283
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.982673 s, 89.6 MB/s
+1565902188: Mice transfer 284
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.93712 s, 134 MB/s
+1565902194: Mice transfer 285
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.08957 s, 115 MB/s
+1565902199: Mice transfer 286
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.04441 s, 112 MB/s
+1565902205: Mice transfer 287
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.09462 s, 111 MB/s
+1565902210: Mice transfer 288
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.995922 s, 105 MB/s
+1565902215: Mice transfer 289
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.702296 s, 119 MB/s
+1565902220: Mice transfer 290
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.01537 s, 107 MB/s
+1565902225: Mice transfer 291
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.00856 s, 108 MB/s
+1565902230: Mice transfer 292
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.981029 s, 120 MB/s
+1565902235: Mice transfer 293
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.679482 s, 123 MB/s
+1565902240: Mice transfer 294
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.44533 s, 78.4 MB/s
+1565902245: Mice transfer 295
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.93687 s, 116 MB/s
+1565902251: Mice transfer 296
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.933282 s, 135 MB/s
+1565902256: Mice transfer 297
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.990753 s, 110 MB/s
+1565902261: Mice transfer 298
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.02548 s, 106 MB/s
+1565902266: Mice transfer 299
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.01613 s, 111 MB/s
+1565902271: Mice transfer 300
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.694329 s, 121 MB/s
+1565902276: Mice transfer 301
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.984688 s, 106 MB/s
+1565902281: Mice transfer 302
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.768581 s, 109 MB/s
+1565902285: Mice transfer 303
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.10353 s, 114 MB/s
+1565902290: Mice transfer 304
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.10661 s, 114 MB/s
+1565902296: Mice transfer 305
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.00298 s, 105 MB/s
+1565902301: Mice transfer 306
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.702162 s, 125 MB/s
+1565902305: Mice transfer 307
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.03996 s, 92.8 MB/s
+1565902310: Mice transfer 308
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 1.3685 s, 73.6 MB/s
+1565902316: Mice transfer 309
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.940245 s, 107 MB/s
+1565902321: Mice transfer 310
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.977369 s, 103 MB/s
+1565902326: Mice transfer 311
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.12997 s, 92.8 MB/s
+1565902331: Mice transfer 312
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.04169 s, 113 MB/s
+1565902336: Mice transfer 313
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.93734 s, 130 MB/s
+1565902341: Mice transfer 314
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.919117 s, 132 MB/s
+1565902347: Mice transfer 315
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.04741 s, 108 MB/s
+1565902352: Mice transfer 316
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.904271 s, 102 MB/s
+1565902357: Mice transfer 317
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.813624 s, 129 MB/s
+1565902362: Mice transfer 318
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.948626 s, 128 MB/s
+1565902367: Mice transfer 319
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.950854 s, 132 MB/s
+1565902373: Mice transfer 320
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.8351 s, 136 MB/s
+1565902378: Mice transfer 321
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.06165 s, 111 MB/s
+1565902383: Mice transfer 322
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.09449 s, 111 MB/s
+1565902388: Mice transfer 323
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.04935 s, 108 MB/s
+1565902394: Mice transfer 324
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.813373 s, 129 MB/s
+1565902399: Mice transfer 325
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1 s, 126 MB/s
+1565902404: Mice transfer 326
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.00581 s, 104 MB/s
+1565902409: Mice transfer 327
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.706405 s, 131 MB/s
+1565902414: Mice transfer 328
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.792164 s, 116 MB/s
+1565902418: Mice transfer 329
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.53127 s, 74.0 MB/s
+1565902424: Mice transfer 330
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.849216 s, 133 MB/s
+1565902429: Mice transfer 331
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.00998 s, 125 MB/s
+1565902435: Mice transfer 332
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.703776 s, 125 MB/s
+1565902439: Mice transfer 333
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.984099 s, 111 MB/s
+1565902444: Mice transfer 334
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.956144 s, 127 MB/s
+1565902449: Mice transfer 335
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.835881 s, 125 MB/s
+1565902454: Mice transfer 336
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.764778 s, 110 MB/s
+1565902459: Mice transfer 337
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.48463 s, 73.5 MB/s
+1565902464: Mice transfer 338
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.833007 s, 126 MB/s
+1565902469: Mice transfer 339
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.663964 s, 126 MB/s
+1565902474: Mice transfer 340
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.02993 s, 110 MB/s
+1565902479: Mice transfer 341
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.794241 s, 116 MB/s
+1565902483: Mice transfer 342
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.951152 s, 132 MB/s
+1565902489: Mice transfer 343
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.764829 s, 110 MB/s
+1565902493: Mice transfer 344
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.04014 s, 113 MB/s
+1565902498: Mice transfer 345
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.654241 s, 135 MB/s
+1565902503: Mice transfer 346
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.798541 s, 116 MB/s
+1565902507: Mice transfer 347
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.994989 s, 122 MB/s
+1565902513: Mice transfer 348
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.997263 s, 126 MB/s
+1565902518: Mice transfer 349
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.70867 s, 61.4 MB/s
+1565902524: Mice transfer 350
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.798214 s, 116 MB/s
+1565902529: Mice transfer 351
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.882745 s, 99.8 MB/s
+1565902533: Mice transfer 352
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 1.0007 s, 83.8 MB/s
+1565902538: Mice transfer 353
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.957165 s, 105 MB/s
+1565902543: Mice transfer 354
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.08066 s, 116 MB/s
+1565902548: Mice transfer 355
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.44086 s, 84.4 MB/s
+1565902554: Mice transfer 356
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 1.17857 s, 74.7 MB/s
+1565902559: Mice transfer 357
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.8927 s, 127 MB/s
+1565902564: Mice transfer 358
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.819712 s, 133 MB/s
+1565902569: Mice transfer 359
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.697986 s, 120 MB/s
+1565902573: Mice transfer 360
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 1.18596 s, 70.7 MB/s
+1565902578: Mice transfer 361
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.63745 s, 71.7 MB/s
+1565902584: Mice transfer 362
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.792089 s, 116 MB/s
+1565902588: Mice transfer 363
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.25694 s, 83.4 MB/s
+1565902594: Mice transfer 364
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.56007 s, 75.3 MB/s
+1565902600: Mice transfer 365
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.0585 s, 115 MB/s
+1565902605: Mice transfer 366
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.911097 s, 101 MB/s
+1565902610: Mice transfer 367
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.673185 s, 125 MB/s
+1565902614: Mice transfer 368
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 1.17091 s, 75.2 MB/s
+1565902619: Mice transfer 369
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.805701 s, 115 MB/s
+1565902623: Mice transfer 370
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 1.14335 s, 73.4 MB/s
+1565902628: Mice transfer 371
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.850055 s, 143 MB/s
+1565902633: Mice transfer 372
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.818344 s, 133 MB/s
+1565902638: Mice transfer 373
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.711411 s, 124 MB/s
+1565902642: Mice transfer 374
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.34104 s, 81.3 MB/s
+1565902648: Mice transfer 375
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.40722 s, 74.5 MB/s
+1565902653: Mice transfer 376
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.854729 s, 128 MB/s
+1565902658: Mice transfer 377
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.882871 s, 133 MB/s
+1565902664: Mice transfer 378
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.920806 s, 100 MB/s
+1565902668: Mice transfer 379
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.4251 s, 73.6 MB/s
+1565902674: Mice transfer 380
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 1.20123 s, 73.3 MB/s
+1565902679: Mice transfer 381
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.781438 s, 123 MB/s
+1565902683: Mice transfer 382
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.96213 s, 131 MB/s
+1565902689: Mice transfer 383
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.823425 s, 143 MB/s
+1565902694: Mice transfer 384
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.814798 s, 134 MB/s
+1565902699: Mice transfer 385
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.853009 s, 128 MB/s
+1565902704: Mice transfer 386
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.798023 s, 126 MB/s
+1565902708: Mice transfer 387
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.661516 s, 152 MB/s
+1565902713: Mice transfer 388
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 1.21468 s, 82.9 MB/s
+1565902718: Mice transfer 389
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.44066 s, 75.7 MB/s
+1565902724: Mice transfer 390
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.63193 s, 146 MB/s
+1565902728: Mice transfer 391
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 1.16079 s, 75.9 MB/s
+1565902733: Mice transfer 392
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 1.3041 s, 70.8 MB/s
+1565902738: Mice transfer 393
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.07045 s, 118 MB/s
+1565902744: Mice transfer 394
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.871471 s, 140 MB/s
+1565902749: Mice transfer 395
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.888639 s, 99.1 MB/s
+1565902754: Mice transfer 396
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 1.13321 s, 74.0 MB/s
+1565902758: Mice transfer 397
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.775976 s, 114 MB/s
+1565902763: Mice transfer 398
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 1.13521 s, 73.9 MB/s
+1565902767: Mice transfer 399
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.56735 s, 77.6 MB/s
+1565902773: Mice transfer 400
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.53869 s, 79.1 MB/s
+1565902779: Mice transfer 401
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.19783 s, 80.5 MB/s
+1565902784: Mice transfer 402
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 1.2623 s, 73.1 MB/s
+1565902789: Mice transfer 403
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.857433 s, 127 MB/s
+1565902794: Mice transfer 404
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.863926 s, 141 MB/s
+1565902800: Mice transfer 405
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.918475 s, 100 MB/s
+1565902804: Mice transfer 406
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.677882 s, 124 MB/s
+1565902809: Mice transfer 407
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.37763 s, 76.1 MB/s
+1565902814: Mice transfer 408
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.51166 s, 72.1 MB/s
+1565902820: Mice transfer 409
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 1.29398 s, 68.1 MB/s
+1565902825: Mice transfer 410
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.737116 s, 125 MB/s
+1565902829: Mice transfer 411
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.04297 s, 117 MB/s
+1565902835: Mice transfer 412
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.844138 s, 139 MB/s
+1565902840: Mice transfer 413
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.04198 s, 121 MB/s
+1565902845: Mice transfer 414
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.0256 s, 115 MB/s
+1565902851: Mice transfer 415
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.33566 s, 84.8 MB/s
+1565902856: Mice transfer 416
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.34152 s, 71.9 MB/s
+1565902862: Mice transfer 417
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 1.32959 s, 75.7 MB/s
+1565902867: Mice transfer 418
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.702076 s, 119 MB/s
+1565902871: Mice transfer 419
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 1.16251 s, 86.6 MB/s
+1565902876: Mice transfer 420
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 1.10762 s, 83.3 MB/s
+1565902881: Mice transfer 421
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.42208 s, 73.7 MB/s
+1565902887: Mice transfer 422
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.873451 s, 130 MB/s
+1565902892: Mice transfer 423
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.808385 s, 119 MB/s
+1565902896: Mice transfer 424
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.4732 s, 82.6 MB/s
+1565902902: Mice transfer 425
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 1.33895 s, 62.7 MB/s
+1565902908: Mice transfer 426
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.29404 s, 74.5 MB/s
+1565902913: Mice transfer 427
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.711964 s, 135 MB/s
+1565902917: Mice transfer 428
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.83194 s, 126 MB/s
+1565902922: Mice transfer 429
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.921334 s, 118 MB/s
+1565902927: Mice transfer 430
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.731596 s, 126 MB/s
+1565902932: Mice transfer 431
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 1.25727 s, 66.7 MB/s
+1565902936: Mice transfer 432
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.35025 s, 71.4 MB/s
+1565902941: Mice transfer 433
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.802964 s, 115 MB/s
+1565902946: Mice transfer 434
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.881127 s, 100 MB/s
+1565902950: Mice transfer 435
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 1.213 s, 72.6 MB/s
+1565902955: Mice transfer 436
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.814912 s, 118 MB/s
+1565902960: Mice transfer 437
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.20855 s, 93.7 MB/s
+1565902965: Mice transfer 438
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.32765 s, 94.8 MB/s
+1565902971: Mice transfer 439
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.934031 s, 103 MB/s
+1565902976: Mice transfer 440
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.782384 s, 118 MB/s
+1565902980: Mice transfer 441
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.103 s, 103 MB/s
+1565902986: Mice transfer 442
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.98612 s, 119 MB/s
+1565902991: Mice transfer 443
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.885116 s, 123 MB/s
+1565902996: Mice transfer 444
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.874551 s, 125 MB/s
+1565903001: Mice transfer 445
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.81092 s, 134 MB/s
+1565903006: Mice transfer 446
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.812572 s, 129 MB/s
+1565903011: Mice transfer 447
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.782831 s, 118 MB/s
+1565903016: Mice transfer 448
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.789348 s, 112 MB/s
+1565903020: Mice transfer 449
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.06021 s, 111 MB/s
+1565903026: Mice transfer 450
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.0488 s, 108 MB/s
+1565903031: Mice transfer 451
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.972477 s, 108 MB/s
+1565903036: Mice transfer 452
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.813711 s, 124 MB/s
+1565903041: Mice transfer 453
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.01543 s, 124 MB/s
+1565903046: Mice transfer 454
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.807207 s, 114 MB/s
+1565903051: Mice transfer 455
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.889277 s, 108 MB/s
+1565903056: Mice transfer 456
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.07252 s, 113 MB/s
+1565903061: Mice transfer 457
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.762036 s, 127 MB/s
+1565903066: Mice transfer 458
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.1003 s, 111 MB/s
+1565903071: Mice transfer 459
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.731989 s, 120 MB/s
+1565903075: Mice transfer 460
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.827498 s, 117 MB/s
+1565903080: Mice transfer 461
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.981428 s, 111 MB/s
+1565903085: Mice transfer 462
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.953888 s, 106 MB/s
+1565903090: Mice transfer 463
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.942355 s, 129 MB/s
+1565903095: Mice transfer 464
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.814906 s, 129 MB/s
+1565903100: Mice transfer 465
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.0082 s, 125 MB/s
+1565903106: Mice transfer 466
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.910865 s, 101 MB/s
+1565903110: Mice transfer 467
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.641395 s, 131 MB/s
+1565903115: Mice transfer 468
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.07303 s, 113 MB/s
+1565903120: Mice transfer 469
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.00244 s, 109 MB/s
+1565903125: Mice transfer 470
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.13258 s, 111 MB/s
+1565903131: Mice transfer 471
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.756972 s, 122 MB/s
+1565903135: Mice transfer 472
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.795384 s, 105 MB/s
+1565903140: Mice transfer 473
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.982368 s, 111 MB/s
+1565903145: Mice transfer 474
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.964212 s, 109 MB/s
+1565903150: Mice transfer 475
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.770629 s, 114 MB/s
+1565903154: Mice transfer 476
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.770912 s, 114 MB/s
+1565903159: Mice transfer 477
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.989518 s, 106 MB/s
+1565903164: Mice transfer 478
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.784908 s, 112 MB/s
+1565903168: Mice transfer 479
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.03652 s, 113 MB/s
+1565903174: Mice transfer 480
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.805962 s, 120 MB/s
+1565903178: Mice transfer 481
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.707375 s, 119 MB/s
+1565903182: Mice transfer 482
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.793284 s, 116 MB/s
+1565903187: Mice transfer 483
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.00997 s, 104 MB/s
+1565903192: Mice transfer 484
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.969411 s, 108 MB/s
+1565903197: Mice transfer 485
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.811166 s, 114 MB/s
+1565903202: Mice transfer 486
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.07342 s, 117 MB/s
+1565903207: Mice transfer 487
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.497113 s, 186 MB/s
+1565903211: Mice transfer 488
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.97811 s, 107 MB/s
+1565903216: Mice transfer 489
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.800048 s, 110 MB/s
+1565903221: Mice transfer 490
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.802844 s, 115 MB/s
+1565903225: Mice transfer 491
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.01678 s, 111 MB/s
+1565903230: Mice transfer 492
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.805007 s, 120 MB/s
+1565903235: Mice transfer 493
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.725561 s, 116 MB/s
+1565903239: Mice transfer 494
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.778846 s, 113 MB/s
+1565903244: Mice transfer 495
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.991459 s, 106 MB/s
+1565903249: Mice transfer 496
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.864154 s, 136 MB/s
+1565903254: Mice transfer 497
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.00241 s, 105 MB/s
+1565903259: Mice transfer 498
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.818004 s, 138 MB/s
+1565903264: Mice transfer 499
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.0348 s, 113 MB/s
+1565903269: Mice transfer 500
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.80404 s, 125 MB/s
+1565903274: Mice transfer 501
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.823148 s, 117 MB/s
+1565903279: Mice transfer 502
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 1.08415 s, 92.9 MB/s
+1565903284: Mice transfer 503
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 1.00595 s, 83.4 MB/s
+1565903288: Mice transfer 504
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.0784 s, 113 MB/s
+1565903294: Mice transfer 505
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.10866 s, 113 MB/s
+1565903299: Mice transfer 506
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.12192 s, 112 MB/s
+1565903305: Mice transfer 507
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.816445 s, 118 MB/s
+1565903310: Mice transfer 508
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.707039 s, 131 MB/s
+1565903314: Mice transfer 509
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.810376 s, 114 MB/s
+1565903319: Mice transfer 510
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.834474 s, 116 MB/s
+1565903324: Mice transfer 511
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.996097 s, 109 MB/s
+1565903329: Mice transfer 512
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.21222 s, 100 MB/s
+1565903334: Mice transfer 513
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.941412 s, 107 MB/s
+1565903339: Mice transfer 514
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.809118 s, 130 MB/s
+1565903344: Mice transfer 515
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.791469 s, 138 MB/s
+1565903349: Mice transfer 516
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.687228 s, 153 MB/s
+1565903354: Mice transfer 517
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.957053 s, 127 MB/s
+1565903359: Mice transfer 518
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.859576 s, 127 MB/s
+1565903364: Mice transfer 519
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.792724 s, 122 MB/s
+1565903369: Mice transfer 520
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.938902 s, 116 MB/s
+1565903374: Mice transfer 521
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.86792 s, 126 MB/s
+1565903379: Mice transfer 522
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.905719 s, 107 MB/s
+1565903384: Mice transfer 523
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.868588 s, 111 MB/s
+1565903388: Mice transfer 524
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.81295 s, 114 MB/s
+1565903393: Mice transfer 525
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.992005 s, 110 MB/s
+1565903398: Mice transfer 526
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.930661 s, 104 MB/s
+1565903403: Mice transfer 527
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.06782 s, 118 MB/s
+1565903409: Mice transfer 528
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.833634 s, 116 MB/s
+1565903413: Mice transfer 529
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.04195 s, 113 MB/s
+1565903419: Mice transfer 530
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.10429 s, 110 MB/s
+1565903424: Mice transfer 531
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.796389 s, 111 MB/s
+1565903429: Mice transfer 532
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.731846 s, 115 MB/s
+1565903433: Mice transfer 533
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.19892 s, 91.0 MB/s
+1565903438: Mice transfer 534
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.785084 s, 118 MB/s
+1565903443: Mice transfer 535
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.2286 s, 99.0 MB/s
+1565903449: Mice transfer 536
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.917338 s, 128 MB/s
+1565903454: Mice transfer 537
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.878415 s, 138 MB/s
+1565903459: Mice transfer 538
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.813821 s, 119 MB/s
+1565903464: Mice transfer 539
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.791057 s, 111 MB/s
+1565903468: Mice transfer 540
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 1.40308 s, 71.7 MB/s
+1565903474: Mice transfer 541
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.825652 s, 107 MB/s
+1565903478: Mice transfer 542
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.957014 s, 127 MB/s
+1565903483: Mice transfer 543
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.37068 s, 76.5 MB/s
+1565903489: Mice transfer 544
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.863195 s, 102 MB/s
+1565903493: Mice transfer 545
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.740422 s, 125 MB/s
+1565903498: Mice transfer 546
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.09579 s, 107 MB/s
+1565903503: Mice transfer 547
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.05065 s, 112 MB/s
+1565903509: Mice transfer 548
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.01071 s, 112 MB/s
+1565903514: Mice transfer 549
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.972477 s, 104 MB/s
+1565903519: Mice transfer 550
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.0275 s, 114 MB/s
+1565903524: Mice transfer 551
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.924403 s, 132 MB/s
+1565903530: Mice transfer 552
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.699775 s, 126 MB/s
+1565903534: Mice transfer 553
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.01802 s, 103 MB/s
+1565903539: Mice transfer 554
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.0575 s, 119 MB/s
+1565903545: Mice transfer 555
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.857149 s, 127 MB/s
+1565903550: Mice transfer 556
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.814211 s, 124 MB/s
+1565903555: Mice transfer 557
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.947461 s, 128 MB/s
+1565903560: Mice transfer 558
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.07292 s, 117 MB/s
+1565903566: Mice transfer 559
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.776261 s, 113 MB/s
+1565903570: Mice transfer 560
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.75527 s, 133 MB/s
+1565903575: Mice transfer 561
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.942315 s, 116 MB/s
+1565903580: Mice transfer 562
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.771461 s, 114 MB/s
+1565903584: Mice transfer 563
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.16786 s, 108 MB/s
+1565903590: Mice transfer 564
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.955143 s, 132 MB/s
+1565903596: Mice transfer 565
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.814386 s, 139 MB/s
+1565903600: Mice transfer 566
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.883747 s, 133 MB/s
+1565903606: Mice transfer 567
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.707775 s, 119 MB/s
+1565903610: Mice transfer 568
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.3504 s, 83.9 MB/s
+1565903616: Mice transfer 569
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.594596 s, 141 MB/s
+1565903620: Mice transfer 570
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.51968 s, 82.8 MB/s
+1565903626: Mice transfer 571
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.723306 s, 151 MB/s
+1565903630: Mice transfer 572
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.889549 s, 127 MB/s
+1565903636: Mice transfer 573
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.901382 s, 135 MB/s
+1565903641: Mice transfer 574
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.806959 s, 140 MB/s
+1565903646: Mice transfer 575
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.70664 s, 125 MB/s
+1565903650: Mice transfer 576
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.903665 s, 107 MB/s
+1565903655: Mice transfer 577
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.770772 s, 109 MB/s
+1565903659: Mice transfer 578
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.895294 s, 98.4 MB/s
+1565903664: Mice transfer 579
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.987775 s, 110 MB/s
+1565903669: Mice transfer 580
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.09223 s, 111 MB/s
+1565903674: Mice transfer 581
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.056 s, 111 MB/s
+1565903680: Mice transfer 582
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.792521 s, 127 MB/s
+1565903684: Mice transfer 583
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.988573 s, 110 MB/s
+1565903690: Mice transfer 584
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.959165 s, 109 MB/s
+1565903695: Mice transfer 585
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.687288 s, 122 MB/s
+1565903699: Mice transfer 586
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 1.06113 s, 83.0 MB/s
+1565903704: Mice transfer 587
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.83577 s, 115 MB/s
+1565903708: Mice transfer 588
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.714545 s, 129 MB/s
+1565903713: Mice transfer 589
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.79556 s, 116 MB/s
+1565903717: Mice transfer 590
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.92615 s, 113 MB/s
+1565903722: Mice transfer 591
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.00038 s, 122 MB/s
+1565903727: Mice transfer 592
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.834132 s, 131 MB/s
+1565903732: Mice transfer 593
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.974019 s, 129 MB/s
+1565903738: Mice transfer 594
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.735002 s, 126 MB/s
+1565903742: Mice transfer 595
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.747575 s, 112 MB/s
+1565903747: Mice transfer 596
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.780477 s, 113 MB/s
+1565903751: Mice transfer 597
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.832725 s, 111 MB/s
+1565903756: Mice transfer 598
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.01818 s, 111 MB/s
+1565903761: Mice transfer 599
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.00271 s, 109 MB/s
+1565903766: Mice transfer 600
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.53353 s, 82.1 MB/s
+1565903772: Mice transfer 601
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.965426 s, 109 MB/s
+1565903777: Mice transfer 602
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.815044 s, 118 MB/s
+1565903782: Mice transfer 603
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.725137 s, 150 MB/s
+1565903787: Mice transfer 604
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.994704 s, 126 MB/s
+1565903793: Mice transfer 605
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.811782 s, 124 MB/s
+1565903797: Mice transfer 606
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.950822 s, 128 MB/s
+1565903803: Mice transfer 607
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.07614 s, 117 MB/s
+1565903808: Mice transfer 608
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.982174 s, 102 MB/s
+1565903813: Mice transfer 609
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.854213 s, 128 MB/s
+1565903818: Mice transfer 610
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.775647 s, 135 MB/s
+1565903823: Mice transfer 611
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.850091 s, 128 MB/s
+1565903828: Mice transfer 612
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.789145 s, 117 MB/s
+1565903833: Mice transfer 613
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.07263 s, 117 MB/s
+1565903838: Mice transfer 614
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.729413 s, 127 MB/s
+1565903843: Mice transfer 615
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.11241 s, 113 MB/s
+1565903848: Mice transfer 616
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.734686 s, 120 MB/s
+1565903853: Mice transfer 617
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 1.30774 s, 77.0 MB/s
+1565903858: Mice transfer 618
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 1.17155 s, 71.6 MB/s
+1565903863: Mice transfer 619
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.854221 s, 113 MB/s
+1565903867: Mice transfer 620
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.01411 s, 112 MB/s
+1565903872: Mice transfer 621
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.761067 s, 110 MB/s
+1565903877: Mice transfer 622
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.754913 s, 111 MB/s
+1565903881: Mice transfer 623
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.06438 s, 98.5 MB/s
+1565903886: Mice transfer 624
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.23703 s, 84.8 MB/s
+1565903891: Mice transfer 625
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.774535 s, 114 MB/s
+1565903896: Mice transfer 626
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.00376 s, 109 MB/s
+1565903901: Mice transfer 627
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.03395 s, 110 MB/s
+1565903907: Mice transfer 628
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.953801 s, 106 MB/s
+1565903912: Mice transfer 629
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.969122 s, 130 MB/s
+1565903917: Mice transfer 630
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.09538 s, 111 MB/s
+1565903923: Mice transfer 631
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.04615 s, 112 MB/s
+1565903928: Mice transfer 632
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.783769 s, 112 MB/s
+1565903932: Mice transfer 633
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.952315 s, 128 MB/s
+1565903938: Mice transfer 634
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.680068 s, 130 MB/s
+1565903942: Mice transfer 635
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.800648 s, 115 MB/s
+1565903947: Mice transfer 636
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.972752 s, 108 MB/s
+1565903952: Mice transfer 637
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.00456 s, 113 MB/s
+1565903957: Mice transfer 638
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.814703 s, 108 MB/s
+1565903961: Mice transfer 639
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.773033 s, 141 MB/s
+1565903966: Mice transfer 640
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.814939 s, 129 MB/s
+1565903971: Mice transfer 641
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.82006 s, 123 MB/s
+1565903976: Mice transfer 642
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.915515 s, 128 MB/s
+1565903981: Mice transfer 643
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.847145 s, 139 MB/s
+1565903986: Mice transfer 644
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.879503 s, 114 MB/s
+1565903991: Mice transfer 645
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.948698 s, 106 MB/s
+1565903996: Mice transfer 646
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 1.40918 s, 65.5 MB/s
+1565904001: Mice transfer 647
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.01127 s, 108 MB/s
+1565904006: Mice transfer 648
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.01938 s, 111 MB/s
+1565904011: Mice transfer 649
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.31051 s, 92.8 MB/s
+1565904017: Mice transfer 650
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 1.10738 s, 75.8 MB/s
+1565904022: Mice transfer 651
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.50349 s, 69.7 MB/s
+1565904027: Mice transfer 652
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.05784 s, 115 MB/s
+1565904033: Mice transfer 653
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.687011 s, 128 MB/s
+1565904037: Mice transfer 654
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 1.33587 s, 75.4 MB/s
+1565904043: Mice transfer 655
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.44648 s, 72.5 MB/s
+1565904048: Mice transfer 656
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.58616 s, 71.4 MB/s
+1565904054: Mice transfer 657
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.98007 s, 107 MB/s
+1565904059: Mice transfer 658
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.35461 s, 92.9 MB/s
+1565904065: Mice transfer 659
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 1.09525 s, 84.2 MB/s
+1565904070: Mice transfer 660
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.904294 s, 125 MB/s
+1565904075: Mice transfer 661
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.947684 s, 128 MB/s
+1565904080: Mice transfer 662
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.799543 s, 131 MB/s
+1565904085: Mice transfer 663
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.980016 s, 124 MB/s
+1565904090: Mice transfer 664
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.959081 s, 96.2 MB/s
+1565904095: Mice transfer 665
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.693045 s, 121 MB/s
+1565904099: Mice transfer 666
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.62619 s, 77.4 MB/s
+1565904105: Mice transfer 667
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.957223 s, 127 MB/s
+1565904111: Mice transfer 668
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.01859 s, 94.7 MB/s
+1565904115: Mice transfer 669
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.845641 s, 124 MB/s
+1565904120: Mice transfer 670
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.912703 s, 133 MB/s
+1565904126: Mice transfer 671
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.02448 s, 94.2 MB/s
+1565904131: Mice transfer 672
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.857569 s, 122 MB/s
+1565904135: Mice transfer 673
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.789455 s, 122 MB/s
+1565904140: Mice transfer 674
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 1.15621 s, 87.1 MB/s
+1565904145: Mice transfer 675
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.6865 s, 69.6 MB/s
+1565904151: Mice transfer 676
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.70908 s, 68.7 MB/s
+1565904157: Mice transfer 677
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.707238 s, 119 MB/s
+1565904161: Mice transfer 678
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.09928 s, 114 MB/s
+1565904167: Mice transfer 679
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.931108 s, 131 MB/s
+1565904172: Mice transfer 680
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.05757 s, 115 MB/s
+1565904178: Mice transfer 681
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.07413 s, 117 MB/s
+1565904183: Mice transfer 682
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.20875 s, 79.8 MB/s
+1565904189: Mice transfer 683
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.23031 s, 78.4 MB/s
+1565904194: Mice transfer 684
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.10985 s, 113 MB/s
+1565904199: Mice transfer 685
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.05872 s, 115 MB/s
+1565904205: Mice transfer 686
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.812381 s, 124 MB/s
+1565904210: Mice transfer 687
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 1.43812 s, 70.0 MB/s
+1565904215: Mice transfer 688
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 1.13456 s, 73.9 MB/s
+1565904219: Mice transfer 689
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.889064 s, 132 MB/s
+1565904225: Mice transfer 690
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.711498 s, 130 MB/s
+1565904229: Mice transfer 691
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.39828 s, 81.0 MB/s
+1565904235: Mice transfer 692
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.773437 s, 114 MB/s
+1565904239: Mice transfer 693
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.952983 s, 96.8 MB/s
+1565904244: Mice transfer 694
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.59515 s, 73.6 MB/s
+1565904250: Mice transfer 695
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.901216 s, 130 MB/s
+1565904255: Mice transfer 696
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.715466 s, 123 MB/s
+1565904259: Mice transfer 697
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.22584 s, 92.4 MB/s
+1565904265: Mice transfer 698
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.724882 s, 122 MB/s
+1565904270: Mice transfer 699
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.38409 s, 78.8 MB/s
+1565904275: Mice transfer 700
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.91005 s, 129 MB/s
+1565904280: Mice transfer 701
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.820589 s, 123 MB/s
+1565904285: Mice transfer 702
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.03252 s, 122 MB/s
+1565904291: Mice transfer 703
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.09342 s, 111 MB/s
+1565904296: Mice transfer 704
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.792737 s, 138 MB/s
+1565904301: Mice transfer 705
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.0321 s, 114 MB/s
+1565904307: Mice transfer 706
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.811234 s, 114 MB/s
+1565904311: Mice transfer 707
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.874727 s, 125 MB/s
+1565904316: Mice transfer 708
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.936546 s, 125 MB/s
+1565904321: Mice transfer 709
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.881813 s, 119 MB/s
+1565904326: Mice transfer 710
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.861597 s, 127 MB/s
+1565904331: Mice transfer 711
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.779177 s, 124 MB/s
+1565904336: Mice transfer 712
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.00693 s, 125 MB/s
+1565904342: Mice transfer 713
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.924378 s, 123 MB/s
+1565904347: Mice transfer 714
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.800589 s, 126 MB/s
+1565904352: Mice transfer 715
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.780164 s, 113 MB/s
+1565904356: Mice transfer 716
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.0921 s, 88.3 MB/s
+1565904361: Mice transfer 717
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.830774 s, 111 MB/s
+1565904366: Mice transfer 718
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.793559 s, 116 MB/s
+1565904370: Mice transfer 719
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.969771 s, 104 MB/s
+1565904375: Mice transfer 720
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.867221 s, 135 MB/s
+1565904380: Mice transfer 721
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.08857 s, 116 MB/s
+1565904386: Mice transfer 722
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.805142 s, 125 MB/s
+1565904391: Mice transfer 723
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.96773 s, 130 MB/s
+1565904396: Mice transfer 724
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.01375 s, 108 MB/s
+1565904401: Mice transfer 725
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.8115 s, 124 MB/s
+1565904406: Mice transfer 726
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.937821 s, 121 MB/s
+1565904411: Mice transfer 727
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.792913 s, 116 MB/s
+1565904416: Mice transfer 728
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 1.01245 s, 99.4 MB/s
+1565904421: Mice transfer 729
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.925395 s, 109 MB/s
+1565904426: Mice transfer 730
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.08884 s, 116 MB/s
+1565904431: Mice transfer 731
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.843443 s, 129 MB/s
+1565904436: Mice transfer 732
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.925987 s, 131 MB/s
+1565904442: Mice transfer 733
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.965601 s, 130 MB/s
+1565904447: Mice transfer 734
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.10482 s, 114 MB/s
+1565904453: Mice transfer 735
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.703667 s, 125 MB/s
+1565904457: Mice transfer 736
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.943299 s, 107 MB/s
+1565904462: Mice transfer 737
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.17678 s, 103 MB/s
+1565904467: Mice transfer 738
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.77766 s, 113 MB/s
+1565904472: Mice transfer 739
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.941974 s, 107 MB/s
+1565904477: Mice transfer 740
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.75932 s, 110 MB/s
+1565904481: Mice transfer 741
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.881097 s, 109 MB/s
+1565904486: Mice transfer 742
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.987162 s, 110 MB/s
+1565904491: Mice transfer 743
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.08675 s, 116 MB/s
+1565904496: Mice transfer 744
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.916432 s, 101 MB/s
+1565904501: Mice transfer 745
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.751308 s, 112 MB/s
+1565904505: Mice transfer 746
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.858317 s, 122 MB/s
+1565904510: Mice transfer 747
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.77637 s, 130 MB/s
+1565904515: Mice transfer 748
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.947524 s, 106 MB/s
+1565904520: Mice transfer 749
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.732751 s, 120 MB/s
+1565904525: Mice transfer 750
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.990575 s, 106 MB/s
+1565904530: Mice transfer 751
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.958976 s, 105 MB/s
+1565904535: Mice transfer 752
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.772119 s, 114 MB/s
+1565904539: Mice transfer 753
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.884011 s, 104 MB/s
+1565904544: Mice transfer 754
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.39897 s, 83.9 MB/s
+1565904549: Mice transfer 755
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.779342 s, 124 MB/s
+1565904554: Mice transfer 756
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.806513 s, 109 MB/s
+1565904558: Mice transfer 757
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.03104 s, 110 MB/s
+1565904564: Mice transfer 758
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.852345 s, 133 MB/s
+1565904569: Mice transfer 759
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.527523 s, 183 MB/s
+1565904573: Mice transfer 760
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.769678 s, 109 MB/s
+1565904578: Mice transfer 761
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.761726 s, 110 MB/s
+1565904582: Mice transfer 762
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.0393 s, 109 MB/s
+1565904587: Mice transfer 763
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.724145 s, 116 MB/s
+1565904592: Mice transfer 764
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.03439 s, 109 MB/s
+1565904597: Mice transfer 765
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.777721 s, 108 MB/s
+1565904601: Mice transfer 766
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.667115 s, 126 MB/s
+1565904605: Mice transfer 767
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.812644 s, 114 MB/s
+1565904610: Mice transfer 768
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 1.26378 s, 73.0 MB/s
+1565904615: Mice transfer 769
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.868028 s, 140 MB/s
+1565904620: Mice transfer 770
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.865993 s, 131 MB/s
+1565904625: Mice transfer 771
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.77751 s, 129 MB/s
+1565904630: Mice transfer 772
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.925999 s, 104 MB/s
+1565904634: Mice transfer 773
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.12158 s, 86.0 MB/s
+1565904639: Mice transfer 774
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.929094 s, 104 MB/s
+1565904644: Mice transfer 775
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.926471 s, 127 MB/s
+1565904649: Mice transfer 776
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.765126 s, 110 MB/s
+1565904654: Mice transfer 777
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.985748 s, 111 MB/s
+1565904659: Mice transfer 778
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.978725 s, 107 MB/s
+1565904664: Mice transfer 779
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.02474 s, 115 MB/s
+1565904669: Mice transfer 780
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.840417 s, 130 MB/s
+1565904674: Mice transfer 781
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.851606 s, 98.5 MB/s
+1565904679: Mice transfer 782
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.02631 s, 114 MB/s
+1565904684: Mice transfer 783
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.968781 s, 108 MB/s
+1565904689: Mice transfer 784
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.819316 s, 113 MB/s
+1565904693: Mice transfer 785
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.987041 s, 110 MB/s
+1565904699: Mice transfer 786
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.0266 s, 114 MB/s
+1565904704: Mice transfer 787
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.818853 s, 113 MB/s
+1565904708: Mice transfer 788
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.01533 s, 112 MB/s
+1565904714: Mice transfer 789
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.806856 s, 109 MB/s
+1565904718: Mice transfer 790
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.01333 s, 116 MB/s
+1565904723: Mice transfer 791
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.909831 s, 124 MB/s
+1565904728: Mice transfer 792
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.823192 s, 143 MB/s
+1565904734: Mice transfer 793
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.833936 s, 121 MB/s
+1565904738: Mice transfer 794
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.766499 s, 137 MB/s
+1565904743: Mice transfer 795
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.734809 s, 137 MB/s
+1565904748: Mice transfer 796
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.976462 s, 107 MB/s
+1565904753: Mice transfer 797
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.879772 s, 124 MB/s
+1565904758: Mice transfer 798
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.674143 s, 124 MB/s
+1565904762: Mice transfer 799
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.950343 s, 106 MB/s
+1565904767: Mice transfer 800
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.963534 s, 109 MB/s
+1565904772: Mice transfer 801
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.953769 s, 106 MB/s
+1565904777: Mice transfer 802
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.737216 s, 131 MB/s
+1565904782: Mice transfer 803
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.896725 s, 103 MB/s
+1565904786: Mice transfer 804
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.55524 s, 70.1 MB/s
+1565904792: Mice transfer 805
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.764563 s, 132 MB/s
+1565904797: Mice transfer 806
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.826176 s, 127 MB/s
+1565904802: Mice transfer 807
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.76909 s, 115 MB/s
+1565904806: Mice transfer 808
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.51835 s, 82.9 MB/s
+1565904812: Mice transfer 809
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.730416 s, 132 MB/s
+1565904817: Mice transfer 810
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.894874 s, 131 MB/s
+1565904822: Mice transfer 811
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.842653 s, 124 MB/s
+1565904827: Mice transfer 812
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.792943 s, 116 MB/s
+1565904831: Mice transfer 813
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.829295 s, 111 MB/s
+1565904836: Mice transfer 814
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.06872 s, 114 MB/s
+1565904842: Mice transfer 815
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.948447 s, 97.3 MB/s
+1565904847: Mice transfer 816
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.776066 s, 108 MB/s
+1565904852: Mice transfer 817
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.937235 s, 112 MB/s
+1565904857: Mice transfer 818
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.06392 s, 110 MB/s
+1565904862: Mice transfer 819
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.82631 s, 117 MB/s
+1565904867: Mice transfer 820
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 1.00703 s, 91.6 MB/s
+1565904871: Mice transfer 821
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.75358 s, 111 MB/s
+1565904876: Mice transfer 822
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.755441 s, 111 MB/s
+1565904880: Mice transfer 823
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.03667 s, 113 MB/s
+1565904885: Mice transfer 824
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.00827 s, 108 MB/s
+1565904890: Mice transfer 825
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.710084 s, 124 MB/s
+1565904895: Mice transfer 826
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.00646 s, 108 MB/s
+1565904900: Mice transfer 827
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.04652 s, 108 MB/s
+1565904905: Mice transfer 828
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.849247 s, 128 MB/s
+1565904910: Mice transfer 829
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.839964 s, 130 MB/s
+1565904915: Mice transfer 830
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.863561 s, 141 MB/s
+1565904921: Mice transfer 831
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.06356 s, 114 MB/s
+1565904926: Mice transfer 832
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.08578 s, 112 MB/s
+1565904932: Mice transfer 833
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.02852 s, 110 MB/s
+1565904937: Mice transfer 834
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.700991 s, 120 MB/s
+1565904941: Mice transfer 835
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.03558 s, 113 MB/s
+1565904947: Mice transfer 836
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.900754 s, 135 MB/s
+1565904952: Mice transfer 837
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.04902 s, 112 MB/s
+1565904957: Mice transfer 838
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.803646 s, 120 MB/s
+1565904962: Mice transfer 839
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.710303 s, 118 MB/s
+1565904966: Mice transfer 840
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.799493 s, 115 MB/s
+1565904971: Mice transfer 841
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.982798 s, 111 MB/s
+1565904976: Mice transfer 842
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.963132 s, 100 MB/s
+1565904981: Mice transfer 843
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.66578 s, 157 MB/s
+1565904986: Mice transfer 844
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.967407 s, 126 MB/s
+1565904991: Mice transfer 845
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.922977 s, 136 MB/s
+1565904996: Mice transfer 846
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.08841 s, 112 MB/s
+1565905002: Mice transfer 847
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.825885 s, 117 MB/s
+1565905007: Mice transfer 848
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.794236 s, 116 MB/s
+1565905011: Mice transfer 849
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.27982 s, 75.4 MB/s
+1565905016: Mice transfer 850
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.1338 s, 92.5 MB/s
+1565905021: Mice transfer 851
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.00116 s, 96.4 MB/s
+1565905026: Mice transfer 852
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.992596 s, 101 MB/s
+1565905031: Mice transfer 853
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.0708 s, 118 MB/s
+1565905037: Mice transfer 854
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.09301 s, 111 MB/s
+1565905042: Mice transfer 855
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.990269 s, 110 MB/s
+1565905047: Mice transfer 856
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.10752 s, 114 MB/s
+1565905053: Mice transfer 857
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.996706 s, 109 MB/s
+1565905058: Mice transfer 858
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.06816 s, 114 MB/s
+1565905064: Mice transfer 859
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.03176 s, 114 MB/s
+1565905069: Mice transfer 860
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.072 s, 110 MB/s
+1565905074: Mice transfer 861
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.813767 s, 129 MB/s
+1565905079: Mice transfer 862
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.862228 s, 122 MB/s
+1565905084: Mice transfer 863
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.852864 s, 138 MB/s
+1565905089: Mice transfer 864
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.726043 s, 127 MB/s
+1565905094: Mice transfer 865
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.836821 s, 100 MB/s
+1565905098: Mice transfer 866
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.836966 s, 115 MB/s
+1565905103: Mice transfer 867
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.03719 s, 109 MB/s
+1565905108: Mice transfer 868
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.769386 s, 114 MB/s
+1565905112: Mice transfer 869
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.941441 s, 107 MB/s
+1565905117: Mice transfer 870
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 1.21427 s, 72.5 MB/s
+1565905122: Mice transfer 871
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.06285 s, 103 MB/s
+1565905127: Mice transfer 872
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.08942 s, 116 MB/s
+1565905133: Mice transfer 873
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.829323 s, 142 MB/s
+1565905138: Mice transfer 874
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.811783 s, 119 MB/s
+1565905143: Mice transfer 875
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.91832 s, 128 MB/s
+1565905148: Mice transfer 876
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.582061 s, 151 MB/s
+1565905152: Mice transfer 877
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.00025 s, 105 MB/s
+1565905157: Mice transfer 878
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.970823 s, 108 MB/s
+1565905162: Mice transfer 879
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.761305 s, 110 MB/s
+1565905167: Mice transfer 880
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.854626 s, 108 MB/s
+1565905171: Mice transfer 881
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.57564 s, 79.9 MB/s
+1565905177: Mice transfer 882
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.814663 s, 124 MB/s
+1565905182: Mice transfer 883
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.758529 s, 122 MB/s
+1565905187: Mice transfer 884
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.21827 s, 93.0 MB/s
+1565905192: Mice transfer 885
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.84651 s, 114 MB/s
+1565905197: Mice transfer 886
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.830497 s, 111 MB/s
+1565905201: Mice transfer 887
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.989542 s, 110 MB/s
+1565905206: Mice transfer 888
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.965377 s, 109 MB/s
+1565905211: Mice transfer 889
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.961925 s, 109 MB/s
+1565905216: Mice transfer 890
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.898421 s, 126 MB/s
+1565905222: Mice transfer 891
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.79956 s, 115 MB/s
+1565905226: Mice transfer 892
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.895893 s, 117 MB/s
+1565905231: Mice transfer 893
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.947244 s, 133 MB/s
+1565905236: Mice transfer 894
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.899205 s, 131 MB/s
+1565905242: Mice transfer 895
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.01441 s, 108 MB/s
+1565905247: Mice transfer 896
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.838463 s, 135 MB/s
+1565905252: Mice transfer 897
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.699001 s, 126 MB/s
+1565905256: Mice transfer 898
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.97759 s, 107 MB/s
+1565905261: Mice transfer 899
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.791514 s, 117 MB/s
+1565905266: Mice transfer 900
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.72528 s, 121 MB/s
+1565905270: Mice transfer 901
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.774298 s, 114 MB/s
+1565905274: Mice transfer 902
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.936885 s, 107 MB/s
+1565905279: Mice transfer 903
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.0096 s, 112 MB/s
+1565905284: Mice transfer 904
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.79034 s, 111 MB/s
+1565905289: Mice transfer 905
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.751074 s, 112 MB/s
+1565905293: Mice transfer 906
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.808361 s, 114 MB/s
+1565905298: Mice transfer 907
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.773107 s, 130 MB/s
+1565905302: Mice transfer 908
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.05229 s, 116 MB/s
+1565905308: Mice transfer 909
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.07196 s, 113 MB/s
+1565905314: Mice transfer 910
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.812008 s, 124 MB/s
+1565905318: Mice transfer 911
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.708724 s, 124 MB/s
+1565905323: Mice transfer 912
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.34893 s, 71.5 MB/s
+1565905328: Mice transfer 913
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.05064 s, 116 MB/s
+1565905333: Mice transfer 914
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.987695 s, 127 MB/s
+1565905339: Mice transfer 915
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.07132 s, 117 MB/s
+1565905345: Mice transfer 916
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.08309 s, 108 MB/s
+1565905350: Mice transfer 917
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.777961 s, 119 MB/s
+1565905355: Mice transfer 918
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.807514 s, 114 MB/s
+1565905359: Mice transfer 919
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.56726 s, 77.6 MB/s
+1565905365: Mice transfer 920
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.776099 s, 113 MB/s
+1565905369: Mice transfer 921
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.06367 s, 110 MB/s
+1565905375: Mice transfer 922
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.738437 s, 114 MB/s
+1565905379: Mice transfer 923
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.941538 s, 102 MB/s
+1565905384: Mice transfer 924
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.09242 s, 115 MB/s
+1565905389: Mice transfer 925
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.776545 s, 113 MB/s
+1565905394: Mice transfer 926
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.813568 s, 113 MB/s
+1565905398: Mice transfer 927
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.886886 s, 132 MB/s
+1565905403: Mice transfer 928
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.618055 s, 170 MB/s
+1565905408: Mice transfer 929
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.844615 s, 114 MB/s
+1565905413: Mice transfer 930
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.958539 s, 105 MB/s
+1565905418: Mice transfer 931
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.938646 s, 125 MB/s
+1565905423: Mice transfer 932
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.04909 s, 112 MB/s
+1565905428: Mice transfer 933
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.07815 s, 117 MB/s
+1565905434: Mice transfer 934
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.982064 s, 107 MB/s
+1565905439: Mice transfer 935
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.777365 s, 113 MB/s
+1565905443: Mice transfer 936
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.950542 s, 110 MB/s
+1565905448: Mice transfer 937
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.988587 s, 123 MB/s
+1565905454: Mice transfer 938
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.724321 s, 116 MB/s
+1565905458: Mice transfer 939
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.15137 s, 102 MB/s
+1565905464: Mice transfer 940
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 0.874269 s, 125 MB/s
+1565905469: Mice transfer 941
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.887716 s, 113 MB/s
+1565905473: Mice transfer 942
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.07296 s, 113 MB/s
+1565905479: Mice transfer 943
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.80465 s, 141 MB/s
+1565905484: Mice transfer 944
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.906903 s, 129 MB/s
+1565905489: Mice transfer 945
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.898234 s, 131 MB/s
+1565905494: Mice transfer 946
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.804286 s, 120 MB/s
+1565905499: Mice transfer 947
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.825851 s, 142 MB/s
+1565905504: Mice transfer 948
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.69341 s, 127 MB/s
+1565905509: Mice transfer 949
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 1.05254 s, 87.7 MB/s
+1565905513: Mice transfer 950
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.51322 s, 83.2 MB/s
+1565905520: Mice transfer 951
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.702732 s, 131 MB/s
+1565905524: Mice transfer 952
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.770951 s, 114 MB/s
+1565905528: Mice transfer 953
+26+0 records in
+26+0 records out
+109051904 bytes (109 MB, 104 MiB) copied, 1.01228 s, 108 MB/s
+1565905534: Mice transfer 954
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.02895 s, 110 MB/s
+1565905539: Mice transfer 955
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.816865 s, 118 MB/s
+1565905544: Mice transfer 956
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.737861 s, 119 MB/s
+1565905548: Mice transfer 957
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.14267 s, 84.4 MB/s
+1565905553: Mice transfer 958
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 0.994815 s, 114 MB/s
+1565905558: Mice transfer 959
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.930139 s, 131 MB/s
+1565905564: Mice transfer 960
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.77759 s, 119 MB/s
+1565905568: Mice transfer 961
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.832054 s, 101 MB/s
+1565905572: Mice transfer 962
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.793103 s, 106 MB/s
+1565905577: Mice transfer 963
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.830687 s, 116 MB/s
+1565905581: Mice transfer 964
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.751399 s, 112 MB/s
+1565905586: Mice transfer 965
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.06325 s, 114 MB/s
+1565905591: Mice transfer 966
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.948402 s, 133 MB/s
+1565905597: Mice transfer 967
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.06688 s, 110 MB/s
+1565905602: Mice transfer 968
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.01865 s, 111 MB/s
+1565905607: Mice transfer 969
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.943238 s, 107 MB/s
+1565905612: Mice transfer 970
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.911646 s, 129 MB/s
+1565905617: Mice transfer 971
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.702341 s, 119 MB/s
+1565905622: Mice transfer 972
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 1.04555 s, 80.2 MB/s
+1565905626: Mice transfer 973
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.780379 s, 113 MB/s
+1565905631: Mice transfer 974
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.06664 s, 114 MB/s
+1565905636: Mice transfer 975
+22+0 records in
+22+0 records out
+92274688 bytes (92 MB, 88 MiB) copied, 0.798744 s, 116 MB/s
+1565905641: Mice transfer 976
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 1.07697 s, 113 MB/s
+1565905646: Mice transfer 977
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.717403 s, 117 MB/s
+1565905650: Mice transfer 978
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.01572 s, 111 MB/s
+1565905655: Mice transfer 979
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.867706 s, 140 MB/s
+1565905661: Mice transfer 980
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.797722 s, 121 MB/s
+1565905665: Mice transfer 981
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 1.0678 s, 82.5 MB/s
+1565905670: Mice transfer 982
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.749964 s, 112 MB/s
+1565905674: Mice transfer 983
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.919118 s, 105 MB/s
+1565905679: Mice transfer 984
+20+0 records in
+20+0 records out
+83886080 bytes (84 MB, 80 MiB) copied, 0.637773 s, 132 MB/s
+1565905683: Mice transfer 985
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.0434 s, 113 MB/s
+1565905689: Mice transfer 986
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.922945 s, 105 MB/s
+1565905693: Mice transfer 987
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.05559 s, 111 MB/s
+1565905699: Mice transfer 988
+24+0 records in
+24+0 records out
+100663296 bytes (101 MB, 96 MiB) copied, 0.957063 s, 105 MB/s
+1565905704: Mice transfer 989
+25+0 records in
+25+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 0.780721 s, 134 MB/s
+1565905708: Mice transfer 990
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.720873 s, 134 MB/s
+1565905713: Mice transfer 991
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 1.02932 s, 93.7 MB/s
+1565905718: Mice transfer 992
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 1.46779 s, 80.0 MB/s
+1565905724: Mice transfer 993
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 0.935473 s, 135 MB/s
+1565905729: Mice transfer 994
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.08359 s, 116 MB/s
+1565905735: Mice transfer 995
+23+0 records in
+23+0 records out
+96468992 bytes (96 MB, 92 MiB) copied, 0.863513 s, 112 MB/s
+1565905740: Mice transfer 996
+29+0 records in
+29+0 records out
+121634816 bytes (122 MB, 116 MiB) copied, 0.970919 s, 125 MB/s
+1565905745: Mice transfer 997
+30+0 records in
+30+0 records out
+125829120 bytes (126 MB, 120 MiB) copied, 1.07798 s, 117 MB/s
+1565905751: Mice transfer 998
+27+0 records in
+27+0 records out
+113246208 bytes (113 MB, 108 MiB) copied, 1.02886 s, 110 MB/s
+1565905756: Mice transfer 999
+21+0 records in
+21+0 records out
+88080384 bytes (88 MB, 84 MiB) copied, 0.78218 s, 113 MB/s
+1565905761: Mice transfer 1000
+28+0 records in
+28+0 records out
+117440512 bytes (117 MB, 112 MiB) copied, 0.904403 s, 130 MB/s
+1565905768: Elephant transfer 1
+282+0 records in
+282+0 records out
+1182793728 bytes (1.2 GB, 1.1 GiB) copied, 15.666 s, 75.5 MB/s
+1565905883: Elephant transfer 2
+294+0 records in
+294+0 records out
+1233125376 bytes (1.2 GB, 1.1 GiB) copied, 16.1593 s, 76.3 MB/s
+1565906004: Elephant transfer 3
+275+0 records in
+275+0 records out
+1153433600 bytes (1.2 GB, 1.1 GiB) copied, 14.9153 s, 77.3 MB/s
+1565906116: Elephant transfer 4
+283+0 records in
+283+0 records out
+1186988032 bytes (1.2 GB, 1.1 GiB) copied, 15.9241 s, 74.5 MB/s
+1565906233: Elephant transfer 5
+275+0 records in
+275+0 records out
+1153433600 bytes (1.2 GB, 1.1 GiB) copied, 14.8321 s, 77.8 MB/s
+1565906347: Elephant transfer 6
+289+0 records in
+289+0 records out
+1212153856 bytes (1.2 GB, 1.1 GiB) copied, 15.031 s, 80.6 MB/s
+1565906465: Elephant transfer 7
+293+0 records in
+293+0 records out
+1228931072 bytes (1.2 GB, 1.1 GiB) copied, 15.8765 s, 77.4 MB/s
+1565906585: Elephant transfer 8
+259+0 records in
+259+0 records out
+1086324736 bytes (1.1 GB, 1.0 GiB) copied, 14.2149 s, 76.4 MB/s
+1565906691: Elephant transfer 9
+250+0 records in
+250+0 records out
+1048576000 bytes (1.0 GB, 1000 MiB) copied, 13.8614 s, 75.6 MB/s
+1565906794: Elephant transfer 10
+257+0 records in
+257+0 records out
+1077936128 bytes (1.1 GB, 1.0 GiB) copied, 13.6862 s, 78.8 MB/s
+1565906898: Elephant transfer 11
+288+0 records in
+288+0 records out
+1207959552 bytes (1.2 GB, 1.1 GiB) copied, 15.7531 s, 76.7 MB/s
+1565907016: Elephant transfer 12
+289+0 records in
+289+0 records out
+1212153856 bytes (1.2 GB, 1.1 GiB) copied, 16.1218 s, 75.2 MB/s
+1565907135: Elephant transfer 13
+278+0 records in
+278+0 records out
+1166016512 bytes (1.2 GB, 1.1 GiB) copied, 14.9561 s, 78.0 MB/s
+1565907248: Elephant transfer 14
+288+0 records in
+288+0 records out
+1207959552 bytes (1.2 GB, 1.1 GiB) copied, 16.6261 s, 72.7 MB/s
+1565907366: Elephant transfer 15
+251+0 records in
+251+0 records out
+1052770304 bytes (1.1 GB, 1004 MiB) copied, 14.7178 s, 71.5 MB/s
+1565907471: Elephant transfer 16
+287+0 records in
+287+0 records out
+1203765248 bytes (1.2 GB, 1.1 GiB) copied, 16.713 s, 72.0 MB/s
+1565907590: Elephant transfer 17
+291+0 records in
+291+0 records out
+1220542464 bytes (1.2 GB, 1.1 GiB) copied, 17.4345 s, 70.0 MB/s
+1565907711: Elephant transfer 18
+263+0 records in
+263+0 records out
+1103101952 bytes (1.1 GB, 1.0 GiB) copied, 15.0215 s, 73.4 MB/s
+1565907820: Elephant transfer 19
+260+0 records in
+260+0 records out
+1090519040 bytes (1.1 GB, 1.0 GiB) copied, 15.5898 s, 70.0 MB/s
+1565907927: Elephant transfer 20
+266+0 records in
+266+0 records out
+1115684864 bytes (1.1 GB, 1.0 GiB) copied, 14.6282 s, 76.3 MB/s
+1565908036: Elephant transfer 21
+272+0 records in
+272+0 records out
+1140850688 bytes (1.1 GB, 1.1 GiB) copied, 16.1809 s, 70.5 MB/s
+1565908150: Elephant transfer 22
+265+0 records in
+265+0 records out
+1111490560 bytes (1.1 GB, 1.0 GiB) copied, 15.7746 s, 70.5 MB/s
+1565908260: Elephant transfer 23
+260+0 records in
+260+0 records out
+1090519040 bytes (1.1 GB, 1.0 GiB) copied, 15.4018 s, 70.8 MB/s
+1565908369: Elephant transfer 24
+254+0 records in
+254+0 records out
+1065353216 bytes (1.1 GB, 1016 MiB) copied, 14.5418 s, 73.3 MB/s
+1565908473: Elephant transfer 25
+250+0 records in
+250+0 records out
+1048576000 bytes (1.0 GB, 1000 MiB) copied, 14.4266 s, 72.7 MB/s
+1565908577: Elephant transfer 26
+292+0 records in
+292+0 records out
+1224736768 bytes (1.2 GB, 1.1 GiB) copied, 17.3353 s, 70.7 MB/s
+1565908698: Elephant transfer 27
+299+0 records in
+299+0 records out
+1254096896 bytes (1.3 GB, 1.2 GiB) copied, 17.7118 s, 70.8 MB/s
+1565908821: Elephant transfer 28
+268+0 records in
+268+0 records out
+1124073472 bytes (1.1 GB, 1.0 GiB) copied, 15.2759 s, 73.6 MB/s
+1565908931: Elephant transfer 29
+282+0 records in
+282+0 records out
+1182793728 bytes (1.2 GB, 1.1 GiB) copied, 16.6174 s, 71.2 MB/s
+1565909048: Elephant transfer 30
+262+0 records in
+262+0 records out
+1098907648 bytes (1.1 GB, 1.0 GiB) copied, 16.3441 s, 67.2 MB/s
+1565909158: Elephant transfer 31
+256+0 records in
+256+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 15.9535 s, 67.3 MB/s
+1565909264: Elephant transfer 32
+263+0 records in
+263+0 records out
+1103101952 bytes (1.1 GB, 1.0 GiB) copied, 15.7346 s, 70.1 MB/s
+1565909374: Elephant transfer 33
+283+0 records in
+283+0 records out
+1186988032 bytes (1.2 GB, 1.1 GiB) copied, 17.6139 s, 67.4 MB/s
+1565909492: Elephant transfer 34
+252+0 records in
+252+0 records out
+1056964608 bytes (1.1 GB, 1008 MiB) copied, 14.4274 s, 73.3 MB/s
+1565909596: Elephant transfer 35
+251+0 records in
+251+0 records out
+1052770304 bytes (1.1 GB, 1004 MiB) copied, 14.1788 s, 74.2 MB/s
+1565909699: Elephant transfer 36
+251+0 records in
+251+0 records out
+1052770304 bytes (1.1 GB, 1004 MiB) copied, 14.0346 s, 75.0 MB/s
+1565909803: Elephant transfer 37
+261+0 records in
+261+0 records out
+1094713344 bytes (1.1 GB, 1.0 GiB) copied, 15.4259 s, 71.0 MB/s
+1565909911: Elephant transfer 38
+264+0 records in
+264+0 records out
+1107296256 bytes (1.1 GB, 1.0 GiB) copied, 16.1468 s, 68.6 MB/s
+1565910020: Elephant transfer 39
+277+0 records in
+277+0 records out
+1161822208 bytes (1.2 GB, 1.1 GiB) copied, 16.2052 s, 71.7 MB/s
+1565910134: Elephant transfer 40
+300+0 records in
+300+0 records out
+1258291200 bytes (1.3 GB, 1.2 GiB) copied, 16.7815 s, 75.0 MB/s
+1565910258: Elephant transfer 41
+250+0 records in
+250+0 records out
+1048576000 bytes (1.0 GB, 1000 MiB) copied, 14.4421 s, 72.6 MB/s
+1565910361: Elephant transfer 42
+296+0 records in
+296+0 records out
+1241513984 bytes (1.2 GB, 1.2 GiB) copied, 17.4266 s, 71.2 MB/s
+1565910484: Elephant transfer 43
+293+0 records in
+293+0 records out
+1228931072 bytes (1.2 GB, 1.1 GiB) copied, 16.9645 s, 72.4 MB/s
+1565910606: Elephant transfer 44
+272+0 records in
+272+0 records out
+1140850688 bytes (1.1 GB, 1.1 GiB) copied, 15.5784 s, 73.2 MB/s
+1565910718: Elephant transfer 45
+270+0 records in
+270+0 records out
+1132462080 bytes (1.1 GB, 1.1 GiB) copied, 15.4861 s, 73.1 MB/s
+1565910829: Elephant transfer 46
+292+0 records in
+292+0 records out
+1224736768 bytes (1.2 GB, 1.1 GiB) copied, 17.3927 s, 70.4 MB/s
+1565910950: Elephant transfer 47
+257+0 records in
+257+0 records out
+1077936128 bytes (1.1 GB, 1.0 GiB) copied, 14.9339 s, 72.2 MB/s
+1565911056: Elephant transfer 48
+299+0 records in
+299+0 records out
+1254096896 bytes (1.3 GB, 1.2 GiB) copied, 16.72 s, 75.0 MB/s
+1565911179: Elephant transfer 49
+259+0 records in
+259+0 records out
+1086324736 bytes (1.1 GB, 1.0 GiB) copied, 14.565 s, 74.6 MB/s
+1565911285: Elephant transfer 50
+300+0 records in
+300+0 records out
+1258291200 bytes (1.3 GB, 1.2 GiB) copied, 17.0867 s, 73.6 MB/s
+1565911409: Elephant transfer 51
+300+0 records in
+300+0 records out
+1258291200 bytes (1.3 GB, 1.2 GiB) copied, 16.8068 s, 74.9 MB/s
+1565911532: Elephant transfer 52
+276+0 records in
+276+0 records out
+1157627904 bytes (1.2 GB, 1.1 GiB) copied, 14.6875 s, 78.8 MB/s
+1565911644: Elephant transfer 53
+260+0 records in
+260+0 records out
+1090519040 bytes (1.1 GB, 1.0 GiB) copied, 13.6952 s, 79.6 MB/s
+1565911750: Elephant transfer 54
+274+0 records in
+274+0 records out
+1149239296 bytes (1.1 GB, 1.1 GiB) copied, 14.5052 s, 79.2 MB/s
+1565911861: Elephant transfer 55
+296+0 records in
+296+0 records out
+1241513984 bytes (1.2 GB, 1.2 GiB) copied, 15.9377 s, 77.9 MB/s
+1565911982: Elephant transfer 56
+278+0 records in
+278+0 records out
+1166016512 bytes (1.2 GB, 1.1 GiB) copied, 15.1425 s, 77.0 MB/s
+1565912096: Elephant transfer 57
+300+0 records in
+300+0 records out
+1258291200 bytes (1.3 GB, 1.2 GiB) copied, 16.2499 s, 77.4 MB/s
+1565912219: Elephant transfer 58
+298+0 records in
+298+0 records out
+1249902592 bytes (1.2 GB, 1.2 GiB) copied, 16.14 s, 77.4 MB/s
+1565912341: Elephant transfer 59
+269+0 records in
+269+0 records out
+1128267776 bytes (1.1 GB, 1.1 GiB) copied, 14.7272 s, 76.6 MB/s
+1565912452: Elephant transfer 60
+300+0 records in
+300+0 records out
+1258291200 bytes (1.3 GB, 1.2 GiB) copied, 16.6173 s, 75.7 MB/s
+1565912575: Elephant transfer 61
+277+0 records in
+277+0 records out
+1161822208 bytes (1.2 GB, 1.1 GiB) copied, 14.819 s, 78.4 MB/s
+1565912688: Elephant transfer 62
+292+0 records in
+292+0 records out
+1224736768 bytes (1.2 GB, 1.1 GiB) copied, 15.5129 s, 78.9 MB/s
+1565912807: Elephant transfer 63
+262+0 records in
+262+0 records out
+1098907648 bytes (1.1 GB, 1.0 GiB) copied, 14.3039 s, 76.8 MB/s
+1565912917: Elephant transfer 64
+261+0 records in
+261+0 records out
+1094713344 bytes (1.1 GB, 1.0 GiB) copied, 14.3356 s, 76.4 MB/s
+1565913024: Elephant transfer 65
+256+0 records in
+256+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 13.2628 s, 81.0 MB/s
+1565913128: Elephant transfer 66
+262+0 records in
+262+0 records out
+1098907648 bytes (1.1 GB, 1.0 GiB) copied, 14.5275 s, 75.6 MB/s
+1565913236: Elephant transfer 67
+273+0 records in
+273+0 records out
+1145044992 bytes (1.1 GB, 1.1 GiB) copied, 14.986 s, 76.4 MB/s
+1565913348: Elephant transfer 68
+255+0 records in
+255+0 records out
+1069547520 bytes (1.1 GB, 1020 MiB) copied, 13.2994 s, 80.4 MB/s
+1565913452: Elephant transfer 69
+252+0 records in
+252+0 records out
+1056964608 bytes (1.1 GB, 1008 MiB) copied, 13.5387 s, 78.1 MB/s
+1565913555: Elephant transfer 70
+271+0 records in
+271+0 records out
+1136656384 bytes (1.1 GB, 1.1 GiB) copied, 15.0357 s, 75.6 MB/s
+1565913667: Elephant transfer 71
+283+0 records in
+283+0 records out
+1186988032 bytes (1.2 GB, 1.1 GiB) copied, 15.1543 s, 78.3 MB/s
+1565913783: Elephant transfer 72
+297+0 records in
+297+0 records out
+1245708288 bytes (1.2 GB, 1.2 GiB) copied, 15.9533 s, 78.1 MB/s
+1565913904: Elephant transfer 73
+279+0 records in
+279+0 records out
+1170210816 bytes (1.2 GB, 1.1 GiB) copied, 14.697 s, 79.6 MB/s
+1565914019: Elephant transfer 74
+290+0 records in
+290+0 records out
+1216348160 bytes (1.2 GB, 1.1 GiB) copied, 14.8374 s, 82.0 MB/s
+1565914137: Elephant transfer 75
+267+0 records in
+267+0 records out
+1119879168 bytes (1.1 GB, 1.0 GiB) copied, 14.3153 s, 78.2 MB/s
+1565914246: Elephant transfer 76
+258+0 records in
+258+0 records out
+1082130432 bytes (1.1 GB, 1.0 GiB) copied, 13.6595 s, 79.2 MB/s
+1565914351: Elephant transfer 77
+281+0 records in
+281+0 records out
+1178599424 bytes (1.2 GB, 1.1 GiB) copied, 14.8425 s, 79.4 MB/s
+1565914466: Elephant transfer 78
+254+0 records in
+254+0 records out
+1065353216 bytes (1.1 GB, 1016 MiB) copied, 13.368 s, 79.7 MB/s
+1565914570: Elephant transfer 79
+255+0 records in
+255+0 records out
+1069547520 bytes (1.1 GB, 1020 MiB) copied, 13.216 s, 80.9 MB/s
+1565914673: Elephant transfer 80
+267+0 records in
+267+0 records out
+1119879168 bytes (1.1 GB, 1.0 GiB) copied, 14.632 s, 76.5 MB/s
+1565914782: Elephant transfer 81
+277+0 records in
+277+0 records out
+1161822208 bytes (1.2 GB, 1.1 GiB) copied, 14.5397 s, 79.9 MB/s
+1565914895: Elephant transfer 82
+262+0 records in
+262+0 records out
+1098907648 bytes (1.1 GB, 1.0 GiB) copied, 13.9109 s, 79.0 MB/s
+1565915001: Elephant transfer 83
+251+0 records in
+251+0 records out
+1052770304 bytes (1.1 GB, 1004 MiB) copied, 13.2832 s, 79.3 MB/s
+1565915104: Elephant transfer 84
+296+0 records in
+296+0 records out
+1241513984 bytes (1.2 GB, 1.2 GiB) copied, 16.8422 s, 73.7 MB/s
+1565915225: Elephant transfer 85
+292+0 records in
+292+0 records out
+1224736768 bytes (1.2 GB, 1.1 GiB) copied, 15.8249 s, 77.4 MB/s
+1565915347: Elephant transfer 86
+255+0 records in
+255+0 records out
+1069547520 bytes (1.1 GB, 1020 MiB) copied, 13.3108 s, 80.4 MB/s
+1565915452: Elephant transfer 87
+299+0 records in
+299+0 records out
+1254096896 bytes (1.3 GB, 1.2 GiB) copied, 16.4728 s, 76.1 MB/s
+1565915574: Elephant transfer 88
+265+0 records in
+265+0 records out
+1111490560 bytes (1.1 GB, 1.0 GiB) copied, 14.8859 s, 74.7 MB/s
+1565915683: Elephant transfer 89
+270+0 records in
+270+0 records out
+1132462080 bytes (1.1 GB, 1.1 GiB) copied, 15.0014 s, 75.5 MB/s
+1565915793: Elephant transfer 90
+297+0 records in
+297+0 records out
+1245708288 bytes (1.2 GB, 1.2 GiB) copied, 15.59 s, 79.9 MB/s
+1565915914: Elephant transfer 91
+290+0 records in
+290+0 records out
+1216348160 bytes (1.2 GB, 1.1 GiB) copied, 15.8374 s, 76.8 MB/s
+1565916032: Elephant transfer 92
+288+0 records in
+288+0 records out
+1207959552 bytes (1.2 GB, 1.1 GiB) copied, 15.6974 s, 77.0 MB/s
+1565916150: Elephant transfer 93
+288+0 records in
+288+0 records out
+1207959552 bytes (1.2 GB, 1.1 GiB) copied, 15.1528 s, 79.7 MB/s
+1565916267: Elephant transfer 94
+283+0 records in
+283+0 records out
+1186988032 bytes (1.2 GB, 1.1 GiB) copied, 15.4579 s, 76.8 MB/s
+1565916383: Elephant transfer 95
+286+0 records in
+286+0 records out
+1199570944 bytes (1.2 GB, 1.1 GiB) copied, 15.7504 s, 76.2 MB/s
+1565916500: Elephant transfer 96
+271+0 records in
+271+0 records out
+1136656384 bytes (1.1 GB, 1.1 GiB) copied, 14.3585 s, 79.2 MB/s
+1565916611: Elephant transfer 97
+291+0 records in
+291+0 records out
+1220542464 bytes (1.2 GB, 1.1 GiB) copied, 15.757 s, 77.5 MB/s
+1565916729: Elephant transfer 98
+294+0 records in
+294+0 records out
+1233125376 bytes (1.2 GB, 1.1 GiB) copied, 15.9582 s, 77.3 MB/s
+1565916849: Elephant transfer 99
+273+0 records in
+273+0 records out
+1145044992 bytes (1.1 GB, 1.1 GiB) copied, 14.3845 s, 79.6 MB/s
+1565916961: Elephant transfer 100
+260+0 records in
+260+0 records out
+1090519040 bytes (1.1 GB, 1.0 GiB) copied, 13.586 s, 80.3 MB/s
+1565917069: Elephant transfer 101
+257+0 records in
+257+0 records out
+1077936128 bytes (1.1 GB, 1.0 GiB) copied, 14.0094 s, 76.9 MB/s
+1565917174: Elephant transfer 102
+270+0 records in
+270+0 records out
+1132462080 bytes (1.1 GB, 1.1 GiB) copied, 14.3254 s, 79.1 MB/s
+1565917284: Elephant transfer 103
+300+0 records in
+300+0 records out
+1258291200 bytes (1.3 GB, 1.2 GiB) copied, 15.8172 s, 79.6 MB/s
+1565917407: Elephant transfer 104
+283+0 records in
+283+0 records out
+1186988032 bytes (1.2 GB, 1.1 GiB) copied, 14.9268 s, 79.5 MB/s
+1565917522: Elephant transfer 105
+255+0 records in
+255+0 records out
+1069547520 bytes (1.1 GB, 1020 MiB) copied, 13.9646 s, 76.6 MB/s
+1565917626: Elephant transfer 106
+267+0 records in
+267+0 records out
+1119879168 bytes (1.1 GB, 1.0 GiB) copied, 14.5489 s, 77.0 MB/s
+1565917735: Elephant transfer 107
+264+0 records in
+264+0 records out
+1107296256 bytes (1.1 GB, 1.0 GiB) copied, 14.5249 s, 76.2 MB/s
+1565917843: Elephant transfer 108
+293+0 records in
+293+0 records out
+1228931072 bytes (1.2 GB, 1.1 GiB) copied, 16.3161 s, 75.3 MB/s
+1565917965: Elephant transfer 109
+275+0 records in
+275+0 records out
+1153433600 bytes (1.2 GB, 1.1 GiB) copied, 15.8055 s, 73.0 MB/s
+1565918078: Elephant transfer 110
+287+0 records in
+287+0 records out
+1203765248 bytes (1.2 GB, 1.1 GiB) copied, 15.4419 s, 78.0 MB/s
+1565918197: Elephant transfer 111
+259+0 records in
+259+0 records out
+1086324736 bytes (1.1 GB, 1.0 GiB) copied, 14.4599 s, 75.1 MB/s
+1565918304: Elephant transfer 112
+265+0 records in
+265+0 records out
+1111490560 bytes (1.1 GB, 1.0 GiB) copied, 15.1551 s, 73.3 MB/s
+1565918413: Elephant transfer 113
+274+0 records in
+274+0 records out
+1149239296 bytes (1.1 GB, 1.1 GiB) copied, 14.3219 s, 80.2 MB/s
+1565918524: Elephant transfer 114
+259+0 records in
+259+0 records out
+1086324736 bytes (1.1 GB, 1.0 GiB) copied, 13.7339 s, 79.1 MB/s
+1565918630: Elephant transfer 115
+266+0 records in
+266+0 records out
+1115684864 bytes (1.1 GB, 1.0 GiB) copied, 14.4066 s, 77.4 MB/s
+1565918740: Elephant transfer 116
+294+0 records in
+294+0 records out
+1233125376 bytes (1.2 GB, 1.1 GiB) copied, 15.8097 s, 78.0 MB/s
+1565918860: Elephant transfer 117
+262+0 records in
+262+0 records out
+1098907648 bytes (1.1 GB, 1.0 GiB) copied, 14.4661 s, 76.0 MB/s
+1565918967: Elephant transfer 118
+262+0 records in
+262+0 records out
+1098907648 bytes (1.1 GB, 1.0 GiB) copied, 14.0097 s, 78.4 MB/s
+1565919074: Elephant transfer 119
+300+0 records in
+300+0 records out
+1258291200 bytes (1.3 GB, 1.2 GiB) copied, 15.5511 s, 80.9 MB/s
+1565919196: Elephant transfer 120
+270+0 records in
+270+0 records out
+1132462080 bytes (1.1 GB, 1.1 GiB) copied, 14.8325 s, 76.4 MB/s
+1565919307: Elephant transfer 121
+251+0 records in
+251+0 records out
+1052770304 bytes (1.1 GB, 1004 MiB) copied, 13.2854 s, 79.2 MB/s
+1565919409: Elephant transfer 122
+251+0 records in
+251+0 records out
+1052770304 bytes (1.1 GB, 1004 MiB) copied, 13.1293 s, 80.2 MB/s
+1565919511: Elephant transfer 123
+294+0 records in
+294+0 records out
+1233125376 bytes (1.2 GB, 1.1 GiB) copied, 16.0228 s, 77.0 MB/s
+1565919631: Elephant transfer 124
+260+0 records in
+260+0 records out
+1090519040 bytes (1.1 GB, 1.0 GiB) copied, 14.7543 s, 73.9 MB/s
+1565919738: Elephant transfer 125
+250+0 records in
+250+0 records out
+1048576000 bytes (1.0 GB, 1000 MiB) copied, 13.4331 s, 78.1 MB/s
+1565919840: Elephant transfer 126
+276+0 records in
+276+0 records out
+1157627904 bytes (1.2 GB, 1.1 GiB) copied, 14.8391 s, 78.0 MB/s
+1565919952: Elephant transfer 127
+280+0 records in
+280+0 records out
+1174405120 bytes (1.2 GB, 1.1 GiB) copied, 15.1081 s, 77.7 MB/s
+1565920066: Elephant transfer 128
+252+0 records in
+252+0 records out
+1056964608 bytes (1.1 GB, 1008 MiB) copied, 13.6096 s, 77.7 MB/s
+1565920171: Elephant transfer 129
+288+0 records in
+288+0 records out
+1207959552 bytes (1.2 GB, 1.1 GiB) copied, 15.4474 s, 78.2 MB/s
+1565920288: Elephant transfer 130
+250+0 records in
+250+0 records out
+1048576000 bytes (1.0 GB, 1000 MiB) copied, 12.8813 s, 81.4 MB/s
+1565920390: Elephant transfer 131
+266+0 records in
+266+0 records out
+1115684864 bytes (1.1 GB, 1.0 GiB) copied, 13.9493 s, 80.0 MB/s
+1565920498: Elephant transfer 132
+267+0 records in
+267+0 records out
+1119879168 bytes (1.1 GB, 1.0 GiB) copied, 14.5002 s, 77.2 MB/s
+1565920610: Elephant transfer 133
+271+0 records in
+271+0 records out
+1136656384 bytes (1.1 GB, 1.1 GiB) copied, 14.5807 s, 78.0 MB/s
+1565920720: Elephant transfer 134
+265+0 records in
+265+0 records out
+1111490560 bytes (1.1 GB, 1.0 GiB) copied, 14.9677 s, 74.3 MB/s
+1565920830: Elephant transfer 135
+268+0 records in
+268+0 records out
+1124073472 bytes (1.1 GB, 1.0 GiB) copied, 14.4641 s, 77.7 MB/s
+1565920940: Elephant transfer 136
+277+0 records in
+277+0 records out
+1161822208 bytes (1.2 GB, 1.1 GiB) copied, 15.7913 s, 73.6 MB/s
+1565921054: Elephant transfer 137
+262+0 records in
+262+0 records out
+1098907648 bytes (1.1 GB, 1.0 GiB) copied, 14.3232 s, 76.7 MB/s
+1565921162: Elephant transfer 138
+291+0 records in
+291+0 records out
+1220542464 bytes (1.2 GB, 1.1 GiB) copied, 16.2665 s, 75.0 MB/s
+1565921282: Elephant transfer 139
+252+0 records in
+252+0 records out
+1056964608 bytes (1.1 GB, 1008 MiB) copied, 13.4086 s, 78.8 MB/s
+1565921385: Elephant transfer 140
+288+0 records in
+288+0 records out
+1207959552 bytes (1.2 GB, 1.1 GiB) copied, 15.2402 s, 79.3 MB/s
+1565921502: Elephant transfer 141
+266+0 records in
+266+0 records out
+1115684864 bytes (1.1 GB, 1.0 GiB) copied, 14.4703 s, 77.1 MB/s
+1565921610: Elephant transfer 142
+295+0 records in
+295+0 records out
+1237319680 bytes (1.2 GB, 1.2 GiB) copied, 16.7273 s, 74.0 MB/s
+1565921732: Elephant transfer 143
+260+0 records in
+260+0 records out
+1090519040 bytes (1.1 GB, 1.0 GiB) copied, 14.4439 s, 75.5 MB/s
+1565921839: Elephant transfer 144
+265+0 records in
+265+0 records out
+1111490560 bytes (1.1 GB, 1.0 GiB) copied, 14.525 s, 76.5 MB/s
+1565921947: Elephant transfer 145
+265+0 records in
+265+0 records out
+1111490560 bytes (1.1 GB, 1.0 GiB) copied, 14.4808 s, 76.8 MB/s
+1565922056: Elephant transfer 146
+251+0 records in
+251+0 records out
+1052770304 bytes (1.1 GB, 1004 MiB) copied, 13.1677 s, 80.0 MB/s
+1565922159: Elephant transfer 147
+293+0 records in
+293+0 records out
+1228931072 bytes (1.2 GB, 1.1 GiB) copied, 15.7972 s, 77.8 MB/s
+1565922279: Elephant transfer 148
+264+0 records in
+264+0 records out
+1107296256 bytes (1.1 GB, 1.0 GiB) copied, 13.725 s, 80.7 MB/s
+1565922386: Elephant transfer 149
+296+0 records in
+296+0 records out
+1241513984 bytes (1.2 GB, 1.2 GiB) copied, 16.4708 s, 75.4 MB/s
+1565922509: Elephant transfer 150
+263+0 records in
+263+0 records out
+1103101952 bytes (1.1 GB, 1.0 GiB) copied, 13.8671 s, 79.5 MB/s
+1565922616: Elephant transfer 151
+294+0 records in
+294+0 records out
+1233125376 bytes (1.2 GB, 1.1 GiB) copied, 15.7083 s, 78.5 MB/s
+1565922735: Elephant transfer 152
+291+0 records in
+291+0 records out
+1220542464 bytes (1.2 GB, 1.1 GiB) copied, 15.9781 s, 76.4 MB/s
+1565922856: Elephant transfer 153
+273+0 records in
+273+0 records out
+1145044992 bytes (1.1 GB, 1.1 GiB) copied, 14.7982 s, 77.4 MB/s
+1565922967: Elephant transfer 154
+293+0 records in
+293+0 records out
+1228931072 bytes (1.2 GB, 1.1 GiB) copied, 15.4383 s, 79.6 MB/s
+1565923088: Elephant transfer 155
+271+0 records in
+271+0 records out
+1136656384 bytes (1.1 GB, 1.1 GiB) copied, 14.0621 s, 80.8 MB/s
+1565923198: Elephant transfer 156
+284+0 records in
+284+0 records out
+1191182336 bytes (1.2 GB, 1.1 GiB) copied, 14.7241 s, 80.9 MB/s
+1565923315: Elephant transfer 157
+286+0 records in
+286+0 records out
+1199570944 bytes (1.2 GB, 1.1 GiB) copied, 16.1432 s, 74.3 MB/s
+1565923434: Elephant transfer 158
+288+0 records in
+288+0 records out
+1207959552 bytes (1.2 GB, 1.1 GiB) copied, 16.1011 s, 75.0 MB/s
+1565923552: Elephant transfer 159
+290+0 records in
+290+0 records out
+1216348160 bytes (1.2 GB, 1.1 GiB) copied, 17.7913 s, 68.4 MB/s
+1565923673: Elephant transfer 160
+290+0 records in
+290+0 records out
+1216348160 bytes (1.2 GB, 1.1 GiB) copied, 16.5592 s, 73.5 MB/s
+1565923792: Elephant transfer 161
+281+0 records in
+281+0 records out
+1178599424 bytes (1.2 GB, 1.1 GiB) copied, 17.732 s, 66.5 MB/s
+1565923911: Elephant transfer 162
+272+0 records in
+272+0 records out
+1140850688 bytes (1.1 GB, 1.1 GiB) copied, 14.2028 s, 80.3 MB/s
+1565924022: Elephant transfer 163
+261+0 records in
+261+0 records out
+1094713344 bytes (1.1 GB, 1.0 GiB) copied, 14.3322 s, 76.4 MB/s
+1565924130: Elephant transfer 164
+261+0 records in
+261+0 records out
+1094713344 bytes (1.1 GB, 1.0 GiB) copied, 15.3133 s, 71.5 MB/s
+1565924237: Elephant transfer 165
+278+0 records in
+278+0 records out
+1166016512 bytes (1.2 GB, 1.1 GiB) copied, 14.8683 s, 78.4 MB/s
+1565924351: Elephant transfer 166
+277+0 records in
+277+0 records out
+1161822208 bytes (1.2 GB, 1.1 GiB) copied, 15.2311 s, 76.3 MB/s
+1565924465: Elephant transfer 167
+287+0 records in
+287+0 records out
+1203765248 bytes (1.2 GB, 1.1 GiB) copied, 15.1166 s, 79.6 MB/s
+1565924582: Elephant transfer 168
+271+0 records in
+271+0 records out
+1136656384 bytes (1.1 GB, 1.1 GiB) copied, 13.987 s, 81.3 MB/s
+1565924692: Elephant transfer 169
+265+0 records in
+265+0 records out
+1111490560 bytes (1.1 GB, 1.0 GiB) copied, 14.6518 s, 75.9 MB/s
+1565924801: Elephant transfer 170
+299+0 records in
+299+0 records out
+1254096896 bytes (1.3 GB, 1.2 GiB) copied, 16.273 s, 77.1 MB/s
+1565924923: Elephant transfer 171
+271+0 records in
+271+0 records out
+1136656384 bytes (1.1 GB, 1.1 GiB) copied, 14.9458 s, 76.1 MB/s
+1565925035: Elephant transfer 172
+280+0 records in
+280+0 records out
+1174405120 bytes (1.2 GB, 1.1 GiB) copied, 15.1947 s, 77.3 MB/s
+1565925150: Elephant transfer 173
+286+0 records in
+286+0 records out
+1199570944 bytes (1.2 GB, 1.1 GiB) copied, 15.3494 s, 78.2 MB/s
+1565925267: Elephant transfer 174
+300+0 records in
+300+0 records out
+1258291200 bytes (1.3 GB, 1.2 GiB) copied, 15.8046 s, 79.6 MB/s
+1565925390: Elephant transfer 175
+286+0 records in
+286+0 records out
+1199570944 bytes (1.2 GB, 1.1 GiB) copied, 15.1171 s, 79.4 MB/s
+1565925506: Elephant transfer 176
+297+0 records in
+297+0 records out
+1245708288 bytes (1.2 GB, 1.2 GiB) copied, 15.5389 s, 80.2 MB/s
+1565925628: Elephant transfer 177
+263+0 records in
+263+0 records out
+1103101952 bytes (1.1 GB, 1.0 GiB) copied, 14.1163 s, 78.1 MB/s
+1565925735: Elephant transfer 178
+274+0 records in
+274+0 records out
+1149239296 bytes (1.1 GB, 1.1 GiB) copied, 14.3809 s, 79.9 MB/s
+1565925846: Elephant transfer 179
+276+0 records in
+276+0 records out
+1157627904 bytes (1.2 GB, 1.1 GiB) copied, 15.7461 s, 73.5 MB/s
+1565925960: Elephant transfer 180
+265+0 records in
+265+0 records out
+1111490560 bytes (1.1 GB, 1.0 GiB) copied, 14.2833 s, 77.8 MB/s
+1565926068: Elephant transfer 181
+297+0 records in
+297+0 records out
+1245708288 bytes (1.2 GB, 1.2 GiB) copied, 15.3852 s, 81.0 MB/s
+1565926189: Elephant transfer 182
+283+0 records in
+283+0 records out
+1186988032 bytes (1.2 GB, 1.1 GiB) copied, 15.0345 s, 79.0 MB/s
+1565926304: Elephant transfer 183
+252+0 records in
+252+0 records out
+1056964608 bytes (1.1 GB, 1008 MiB) copied, 12.95 s, 81.6 MB/s
+1565926407: Elephant transfer 184
+300+0 records in
+300+0 records out
+1258291200 bytes (1.3 GB, 1.2 GiB) copied, 15.6728 s, 80.3 MB/s
+1565926530: Elephant transfer 185
+284+0 records in
+284+0 records out
+1191182336 bytes (1.2 GB, 1.1 GiB) copied, 14.6661 s, 81.2 MB/s
+1565926645: Elephant transfer 186
+275+0 records in
+275+0 records out
+1153433600 bytes (1.2 GB, 1.1 GiB) copied, 15.2561 s, 75.6 MB/s
+1565926758: Elephant transfer 187
+294+0 records in
+294+0 records out
+1233125376 bytes (1.2 GB, 1.1 GiB) copied, 16.7544 s, 73.6 MB/s
+1565926879: Elephant transfer 188
+286+0 records in
+286+0 records out
+1199570944 bytes (1.2 GB, 1.1 GiB) copied, 15.674 s, 76.5 MB/s
+1565926997: Elephant transfer 189
+285+0 records in
+285+0 records out
+1195376640 bytes (1.2 GB, 1.1 GiB) copied, 15.8593 s, 75.4 MB/s
+1565927114: Elephant transfer 190
+278+0 records in
+278+0 records out
+1166016512 bytes (1.2 GB, 1.1 GiB) copied, 14.703 s, 79.3 MB/s
+1565927227: Elephant transfer 191
+280+0 records in
+280+0 records out
+1174405120 bytes (1.2 GB, 1.1 GiB) copied, 15.8342 s, 74.2 MB/s
+1565927343: Elephant transfer 192
+293+0 records in
+293+0 records out
+1228931072 bytes (1.2 GB, 1.1 GiB) copied, 16.0031 s, 76.8 MB/s
+1565927463: Elephant transfer 193
+280+0 records in
+280+0 records out
+1174405120 bytes (1.2 GB, 1.1 GiB) copied, 15.7306 s, 74.7 MB/s
+1565927580: Elephant transfer 194
+285+0 records in
+285+0 records out
+1195376640 bytes (1.2 GB, 1.1 GiB) copied, 14.8008 s, 80.8 MB/s
+1565927695: Elephant transfer 195
+267+0 records in
+267+0 records out
+1119879168 bytes (1.1 GB, 1.0 GiB) copied, 14.5288 s, 77.1 MB/s
+1565927804: Elephant transfer 196
+284+0 records in
+284+0 records out
+1191182336 bytes (1.2 GB, 1.1 GiB) copied, 15.6585 s, 76.1 MB/s
+1565927920: Elephant transfer 197
+263+0 records in
+263+0 records out
+1103101952 bytes (1.1 GB, 1.0 GiB) copied, 13.7097 s, 80.5 MB/s
+1565928027: Elephant transfer 198
+271+0 records in
+271+0 records out
+1136656384 bytes (1.1 GB, 1.1 GiB) copied, 14.2219 s, 79.9 MB/s
+1565928138: Elephant transfer 199
+279+0 records in
+279+0 records out
+1170210816 bytes (1.2 GB, 1.1 GiB) copied, 14.7085 s, 79.6 MB/s
+1565928253: Elephant transfer 200
+278+0 records in
+278+0 records out
+1166016512 bytes (1.2 GB, 1.1 GiB) copied, 15.6843 s, 74.3 MB/s
+1565928367: Elephant transfer 201
+263+0 records in
+263+0 records out
+1103101952 bytes (1.1 GB, 1.0 GiB) copied, 14.7056 s, 75.0 MB/s
+1565928476: Elephant transfer 202
+288+0 records in
+288+0 records out
+1207959552 bytes (1.2 GB, 1.1 GiB) copied, 16.095 s, 75.1 MB/s
+1565928594: Elephant transfer 203
+284+0 records in
+284+0 records out
+1191182336 bytes (1.2 GB, 1.1 GiB) copied, 15.7394 s, 75.7 MB/s
+1565928710: Elephant transfer 204
+277+0 records in
+277+0 records out
+1161822208 bytes (1.2 GB, 1.1 GiB) copied, 15.8865 s, 73.1 MB/s
+1565928825: Elephant transfer 205
+299+0 records in
+299+0 records out
+1254096896 bytes (1.3 GB, 1.2 GiB) copied, 16.4289 s, 76.3 MB/s
+1565928948: Elephant transfer 206
+283+0 records in
+283+0 records out
+1186988032 bytes (1.2 GB, 1.1 GiB) copied, 15.62 s, 76.0 MB/s
+1565929064: Elephant transfer 207
+252+0 records in
+252+0 records out
+1056964608 bytes (1.1 GB, 1008 MiB) copied, 13.9084 s, 76.0 MB/s
+1565929167: Elephant transfer 208
+267+0 records in
+267+0 records out
+1119879168 bytes (1.1 GB, 1.0 GiB) copied, 14.7508 s, 75.9 MB/s
+1565929276: Elephant transfer 209
+271+0 records in
+271+0 records out
+1136656384 bytes (1.1 GB, 1.1 GiB) copied, 15.4031 s, 73.8 MB/s
+1565929388: Elephant transfer 210
+265+0 records in
+265+0 records out
+1111490560 bytes (1.1 GB, 1.0 GiB) copied, 14.4028 s, 77.2 MB/s
+1565929498: Elephant transfer 211
+258+0 records in
+258+0 records out
+1082130432 bytes (1.1 GB, 1.0 GiB) copied, 14.4106 s, 75.1 MB/s
+1565929604: Elephant transfer 212
+290+0 records in
+290+0 records out
+1216348160 bytes (1.2 GB, 1.1 GiB) copied, 16.0977 s, 75.6 MB/s
+1565929724: Elephant transfer 213
+250+0 records in
+250+0 records out
+1048576000 bytes (1.0 GB, 1000 MiB) copied, 13.9389 s, 75.2 MB/s
+1565929827: Elephant transfer 214
+282+0 records in
+282+0 records out
+1182793728 bytes (1.2 GB, 1.1 GiB) copied, 15.5548 s, 76.0 MB/s
+1565929944: Elephant transfer 215
+286+0 records in
+286+0 records out
+1199570944 bytes (1.2 GB, 1.1 GiB) copied, 14.9761 s, 80.1 MB/s
+1565930060: Elephant transfer 216
+288+0 records in
+288+0 records out
+1207959552 bytes (1.2 GB, 1.1 GiB) copied, 14.8903 s, 81.1 MB/s
+1565930178: Elephant transfer 217
+289+0 records in
+289+0 records out
+1212153856 bytes (1.2 GB, 1.1 GiB) copied, 15.6299 s, 77.6 MB/s
+1565930297: Elephant transfer 218
+293+0 records in
+293+0 records out
+1228931072 bytes (1.2 GB, 1.1 GiB) copied, 15.7741 s, 77.9 MB/s
+1565930417: Elephant transfer 219
+256+0 records in
+256+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 13.7589 s, 78.0 MB/s
+1565930521: Elephant transfer 220
+279+0 records in
+279+0 records out
+1170210816 bytes (1.2 GB, 1.1 GiB) copied, 15.4171 s, 75.9 MB/s
+1565930636: Elephant transfer 221
+282+0 records in
+282+0 records out
+1182793728 bytes (1.2 GB, 1.1 GiB) copied, 15.0922 s, 78.4 MB/s
+1565930752: Elephant transfer 222
+284+0 records in
+284+0 records out
+1191182336 bytes (1.2 GB, 1.1 GiB) copied, 15.3806 s, 77.4 MB/s
+1565930869: Elephant transfer 223
+269+0 records in
+269+0 records out
+1128267776 bytes (1.1 GB, 1.1 GiB) copied, 14.8519 s, 76.0 MB/s
+1565930981: Elephant transfer 224
+278+0 records in
+278+0 records out
+1166016512 bytes (1.2 GB, 1.1 GiB) copied, 15.2389 s, 76.5 MB/s
+1565931095: Elephant transfer 225
+267+0 records in
+267+0 records out
+1119879168 bytes (1.1 GB, 1.0 GiB) copied, 15.1128 s, 74.1 MB/s
+1565931205: Elephant transfer 226
+250+0 records in
+250+0 records out
+1048576000 bytes (1.0 GB, 1000 MiB) copied, 14.4243 s, 72.7 MB/s
+1565931308: Elephant transfer 227
+252+0 records in
+252+0 records out
+1056964608 bytes (1.1 GB, 1008 MiB) copied, 14.6835 s, 72.0 MB/s
+1565931413: Elephant transfer 228
+258+0 records in
+258+0 records out
+1082130432 bytes (1.1 GB, 1.0 GiB) copied, 14.9243 s, 72.5 MB/s
+1565931519: Elephant transfer 229
+250+0 records in
+250+0 records out
+1048576000 bytes (1.0 GB, 1000 MiB) copied, 15.3603 s, 68.3 MB/s
+1565931623: Elephant transfer 230
+281+0 records in
+281+0 records out
+1178599424 bytes (1.2 GB, 1.1 GiB) copied, 16.0281 s, 73.5 MB/s
+1565931739: Elephant transfer 231
+296+0 records in
+296+0 records out
+1241513984 bytes (1.2 GB, 1.2 GiB) copied, 16.6678 s, 74.5 MB/s
+1565931860: Elephant transfer 232
+291+0 records in
+291+0 records out
+1220542464 bytes (1.2 GB, 1.1 GiB) copied, 17.0368 s, 71.6 MB/s
+1565931980: Elephant transfer 233
+292+0 records in
+292+0 records out
+1224736768 bytes (1.2 GB, 1.1 GiB) copied, 15.9257 s, 76.9 MB/s
+1565932099: Elephant transfer 234
+295+0 records in
+295+0 records out
+1237319680 bytes (1.2 GB, 1.2 GiB) copied, 15.845 s, 78.1 MB/s
+1565932221: Elephant transfer 235
+285+0 records in
+285+0 records out
+1195376640 bytes (1.2 GB, 1.1 GiB) copied, 15.8174 s, 75.6 MB/s
+1565932339: Elephant transfer 236
+282+0 records in
+282+0 records out
+1182793728 bytes (1.2 GB, 1.1 GiB) copied, 14.9128 s, 79.3 MB/s
+1565932454: Elephant transfer 237
+288+0 records in
+288+0 records out
+1207959552 bytes (1.2 GB, 1.1 GiB) copied, 15.7613 s, 76.6 MB/s
+1565932573: Elephant transfer 238
+295+0 records in
+295+0 records out
+1237319680 bytes (1.2 GB, 1.2 GiB) copied, 15.8646 s, 78.0 MB/s
+1565932694: Elephant transfer 239
+282+0 records in
+282+0 records out
+1182793728 bytes (1.2 GB, 1.1 GiB) copied, 15.2307 s, 77.7 MB/s
+1565932810: Elephant transfer 240
+298+0 records in
+298+0 records out
+1249902592 bytes (1.2 GB, 1.2 GiB) copied, 16.0868 s, 77.7 MB/s
+1565932931: Elephant transfer 241
+270+0 records in
+270+0 records out
+1132462080 bytes (1.1 GB, 1.1 GiB) copied, 13.892 s, 81.5 MB/s
+1565933041: Elephant transfer 242
+263+0 records in
+263+0 records out
+1103101952 bytes (1.1 GB, 1.0 GiB) copied, 13.4681 s, 81.9 MB/s
+1565933147: Elephant transfer 243
+263+0 records in
+263+0 records out
+1103101952 bytes (1.1 GB, 1.0 GiB) copied, 14.126 s, 78.1 MB/s
+1565933255: Elephant transfer 244
+287+0 records in
+287+0 records out
+1203765248 bytes (1.2 GB, 1.1 GiB) copied, 15.146 s, 79.5 MB/s
+1565933373: Elephant transfer 245
+278+0 records in
+278+0 records out
+1166016512 bytes (1.2 GB, 1.1 GiB) copied, 15.2504 s, 76.5 MB/s
+1565933487: Elephant transfer 246
+288+0 records in
+288+0 records out
+1207959552 bytes (1.2 GB, 1.1 GiB) copied, 15.7786 s, 76.6 MB/s
+1565933605: Elephant transfer 247
+281+0 records in
+281+0 records out
+1178599424 bytes (1.2 GB, 1.1 GiB) copied, 14.5974 s, 80.7 MB/s
+1565933720: Elephant transfer 248
+281+0 records in
+281+0 records out
+1178599424 bytes (1.2 GB, 1.1 GiB) copied, 14.7337 s, 80.0 MB/s
+1565933835: Elephant transfer 249
+272+0 records in
+272+0 records out
+1140850688 bytes (1.1 GB, 1.1 GiB) copied, 14.805 s, 77.1 MB/s
+1565933946: Elephant transfer 250
+279+0 records in
+279+0 records out
+1170210816 bytes (1.2 GB, 1.1 GiB) copied, 14.8102 s, 79.0 MB/s
+1565934060: Elephant transfer 251
+281+0 records in
+281+0 records out
+1178599424 bytes (1.2 GB, 1.1 GiB) copied, 14.6692 s, 80.3 MB/s
+1565934174: Elephant transfer 252
+255+0 records in
+255+0 records out
+1069547520 bytes (1.1 GB, 1020 MiB) copied, 13.2393 s, 80.8 MB/s
+1565934277: Elephant transfer 253
+280+0 records in
+280+0 records out
+1174405120 bytes (1.2 GB, 1.1 GiB) copied, 15.509 s, 75.7 MB/s
+1565934394: Elephant transfer 254
+278+0 records in
+278+0 records out
+1166016512 bytes (1.2 GB, 1.1 GiB) copied, 14.9698 s, 77.9 MB/s
+1565934508: Elephant transfer 255
+253+0 records in
+253+0 records out
+1061158912 bytes (1.1 GB, 1012 MiB) copied, 13.2658 s, 80.0 MB/s
+1565934611: Elephant transfer 256
+259+0 records in
+259+0 records out
+1086324736 bytes (1.1 GB, 1.0 GiB) copied, 13.3956 s, 81.1 MB/s
+1565934716: Elephant transfer 257
+295+0 records in
+295+0 records out
+1237319680 bytes (1.2 GB, 1.2 GiB) copied, 15.4752 s, 80.0 MB/s
+1565934837: Elephant transfer 258
+287+0 records in
+287+0 records out
+1203765248 bytes (1.2 GB, 1.1 GiB) copied, 14.2637 s, 84.4 MB/s
+1565934953: Elephant transfer 259
+269+0 records in
+269+0 records out
+1128267776 bytes (1.1 GB, 1.1 GiB) copied, 15.153 s, 74.5 MB/s
+1565935064: Elephant transfer 260
+256+0 records in
+256+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 14.4105 s, 74.5 MB/s
+1565935170: Elephant transfer 261
+278+0 records in
+278+0 records out
+1166016512 bytes (1.2 GB, 1.1 GiB) copied, 14.3664 s, 81.2 MB/s
+1565935283: Elephant transfer 262
+274+0 records in
+274+0 records out
+1149239296 bytes (1.1 GB, 1.1 GiB) copied, 15.0749 s, 76.2 MB/s
+1565935395: Elephant transfer 263
+283+0 records in
+283+0 records out
+1186988032 bytes (1.2 GB, 1.1 GiB) copied, 16.2123 s, 73.2 MB/s
+1565935512: Elephant transfer 264
+287+0 records in
+287+0 records out
+1203765248 bytes (1.2 GB, 1.1 GiB) copied, 15.0614 s, 79.9 MB/s
+1565935629: Elephant transfer 265
+288+0 records in
+288+0 records out
+1207959552 bytes (1.2 GB, 1.1 GiB) copied, 15.259 s, 79.2 MB/s
+1565935748: Elephant transfer 266
+267+0 records in
+267+0 records out
+1119879168 bytes (1.1 GB, 1.0 GiB) copied, 13.7712 s, 81.3 MB/s
+1565935857: Elephant transfer 267
+274+0 records in
+274+0 records out
+1149239296 bytes (1.1 GB, 1.1 GiB) copied, 14.2608 s, 80.6 MB/s
+1565935968: Elephant transfer 268
+294+0 records in
+294+0 records out
+1233125376 bytes (1.2 GB, 1.1 GiB) copied, 15.7307 s, 78.4 MB/s
+1565936090: Elephant transfer 269
+267+0 records in
+267+0 records out
+1119879168 bytes (1.1 GB, 1.0 GiB) copied, 14.4792 s, 77.3 MB/s
+1565936199: Elephant transfer 270
+270+0 records in
+270+0 records out
+1132462080 bytes (1.1 GB, 1.1 GiB) copied, 14.7514 s, 76.8 MB/s
+1565936310: Elephant transfer 271
+277+0 records in
+277+0 records out
+1161822208 bytes (1.2 GB, 1.1 GiB) copied, 14.374 s, 80.8 MB/s
+1565936422: Elephant transfer 272
+256+0 records in
+256+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 13.6148 s, 78.9 MB/s
+1565936527: Elephant transfer 273
+280+0 records in
+280+0 records out
+1174405120 bytes (1.2 GB, 1.1 GiB) copied, 14.8369 s, 79.2 MB/s
+1565936641: Elephant transfer 274
+268+0 records in
+268+0 records out
+1124073472 bytes (1.1 GB, 1.0 GiB) copied, 13.6922 s, 82.1 MB/s
+1565936750: Elephant transfer 275
+298+0 records in
+298+0 records out
+1249902592 bytes (1.2 GB, 1.2 GiB) copied, 15.8261 s, 79.0 MB/s
+1565936873: Elephant transfer 276
+279+0 records in
+279+0 records out
+1170210816 bytes (1.2 GB, 1.1 GiB) copied, 15.0093 s, 78.0 MB/s
+1565936987: Elephant transfer 277
+257+0 records in
+257+0 records out
+1077936128 bytes (1.1 GB, 1.0 GiB) copied, 13.7155 s, 78.6 MB/s
+1565937093: Elephant transfer 278
+271+0 records in
+271+0 records out
+1136656384 bytes (1.1 GB, 1.1 GiB) copied, 14.2099 s, 80.0 MB/s
+1565937203: Elephant transfer 279
+283+0 records in
+283+0 records out
+1186988032 bytes (1.2 GB, 1.1 GiB) copied, 15.606 s, 76.1 MB/s
+1565937319: Elephant transfer 280
+250+0 records in
+250+0 records out
+1048576000 bytes (1.0 GB, 1000 MiB) copied, 12.8539 s, 81.6 MB/s
+1565937420: Elephant transfer 281
+268+0 records in
+268+0 records out
+1124073472 bytes (1.1 GB, 1.0 GiB) copied, 14.3845 s, 78.1 MB/s
+1565937530: Elephant transfer 282
+258+0 records in
+258+0 records out
+1082130432 bytes (1.1 GB, 1.0 GiB) copied, 13.3223 s, 81.2 MB/s
+1565937634: Elephant transfer 283
+261+0 records in
+261+0 records out
+1094713344 bytes (1.1 GB, 1.0 GiB) copied, 13.578 s, 80.6 MB/s
+1565937740: Elephant transfer 284
+253+0 records in
+253+0 records out
+1061158912 bytes (1.1 GB, 1012 MiB) copied, 13.2202 s, 80.3 MB/s
+1565937844: Elephant transfer 285
+296+0 records in
+296+0 records out
+1241513984 bytes (1.2 GB, 1.2 GiB) copied, 15.5716 s, 79.7 MB/s
+1565937964: Elephant transfer 286
+254+0 records in
+254+0 records out
+1065353216 bytes (1.1 GB, 1016 MiB) copied, 13.7182 s, 77.7 MB/s
+1565938068: Elephant transfer 287
+270+0 records in
+270+0 records out
+1132462080 bytes (1.1 GB, 1.1 GiB) copied, 14.2875 s, 79.3 MB/s
+1565938178: Elephant transfer 288
+286+0 records in
+286+0 records out
+1199570944 bytes (1.2 GB, 1.1 GiB) copied, 15.5079 s, 77.4 MB/s
+1565938294: Elephant transfer 289
+261+0 records in
+261+0 records out
+1094713344 bytes (1.1 GB, 1.0 GiB) copied, 14.4227 s, 75.9 MB/s
+1565938402: Elephant transfer 290
+294+0 records in
+294+0 records out
+1233125376 bytes (1.2 GB, 1.1 GiB) copied, 15.9925 s, 77.1 MB/s
+1565938522: Elephant transfer 291
+280+0 records in
+280+0 records out
+1174405120 bytes (1.2 GB, 1.1 GiB) copied, 15.2618 s, 77.0 MB/s
+1565938637: Elephant transfer 292
+261+0 records in
+261+0 records out
+1094713344 bytes (1.1 GB, 1.0 GiB) copied, 13.6504 s, 80.2 MB/s
+1565938743: Elephant transfer 293
+300+0 records in
+300+0 records out
+1258291200 bytes (1.3 GB, 1.2 GiB) copied, 17.008 s, 74.0 MB/s
+1565938867: Elephant transfer 294
+258+0 records in
+258+0 records out
+1082130432 bytes (1.1 GB, 1.0 GiB) copied, 14.0462 s, 77.0 MB/s
+1565938972: Elephant transfer 295
+258+0 records in
+258+0 records out
+1082130432 bytes (1.1 GB, 1.0 GiB) copied, 14.5359 s, 74.4 MB/s
+1565939078: Elephant transfer 296
+300+0 records in
+300+0 records out
+1258291200 bytes (1.3 GB, 1.2 GiB) copied, 16.4268 s, 76.6 MB/s
+1565939201: Elephant transfer 297
+264+0 records in
+264+0 records out
+1107296256 bytes (1.1 GB, 1.0 GiB) copied, 13.8282 s, 80.1 MB/s
+1565939309: Elephant transfer 298
+262+0 records in
+262+0 records out
+1098907648 bytes (1.1 GB, 1.0 GiB) copied, 13.6967 s, 80.2 MB/s
+1565939415: Elephant transfer 299
+252+0 records in
+252+0 records out
+1056964608 bytes (1.1 GB, 1008 MiB) copied, 13.4754 s, 78.4 MB/s
+1565939518: Elephant transfer 300
+255+0 records in
+255+0 records out
+1069547520 bytes (1.1 GB, 1020 MiB) copied, 13.0941 s, 81.7 MB/s
+1565939625: END reorder 50
+1565939625: END htcp

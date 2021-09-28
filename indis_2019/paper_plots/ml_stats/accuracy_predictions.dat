@@ -1,0 +1,5 @@
+#classifier   elephant    mice    1000genome
+cubic         0.76        0.92    0.355
+reno          0.75        0.96    0.63
+hamilton      0.78        0.99    0.715
+bbr           1           0.88    0.49

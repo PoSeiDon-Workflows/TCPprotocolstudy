@@ -1,0 +1,5 @@
+#classifier   normal    loss    duplication    reordering
+cubic         0         0       0              100
+reno          10        0       0              90
+hamilton      0         0       0              100
+bbr           0         0       0              100
